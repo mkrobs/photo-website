@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>M & M Photography</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script src="js/translate.js"></script>
+    <script src="js/index.js"></script>
+</head>
+<body class="home" onload="translate('en','lng-tag')">
+    <header id="stickyheader">
+        <div>
+            <a href="index.html">
+            <img id="logo" src="logo.png" class="logo" />
+            </a>
+        </div>
+        <div class="title-element">
+            <li class="list-title">
+            <div>
+                <h1 class="title"><a href="index.html" class="link-none" lng-tag="title"></a></h1>
+            </div>
+            <div>
+                <h3 class="title-sub" lng-tag="title-sub"></h3>
+            </div>
+            </li>
+        </div>
+        <div class="topnav" id="navMenu">
+            <a href="javascript:void(0);" class="icon" onclick="showMenu()">
+                <div class="menu-icon">
+                     <div></div>
+                     <div></div>
+                     <div></div>
+                </div>
+            </a>
+            <div class="topnav-space"></div>
+            <a href="wedding.html" lng-tag="wedding"></a>
+            <a href="pricing.html" lng-tag="portrait"></a>
+            <a href="about.html" lng-tag="about"></a>
+            <a href="contact.html" lng-tag="contact"></a>
+                <a class="lang-select" id="enTranslator" href="javascript:void(0);">EN</a>
+                <a class="lang-select" id="fiTranslator" href="javascript:void(0);">FI</a>
+                <a class="lang-select" id="svTranslator" href="javascript:void(0);">SV</a>
+        </div>
+    </header>
+    <div class="banner-parallax"></div>
+    <div class="title-low-container">
+        <div class="title-element-low">
+            <h1 class="title inverted" lng-tag="title-low"></h1>
+        </div>
+    </div>
+    <div class="home-contact">
+        <a href="contact.html">
+            <button class="contact-button" type="button" lng-tag="c-button"></button>
+        </a>
+    </div>
+    <div class="container">
+        <div class="sec-photo">
+           <a href="wedding.html"> <img class="photo-frame" src="img/front-page/wedding.jpg" /></a>
+                <div>
+                    <a href="wedding.html"  class="photo-text" lng-tag="wedding">
+                    </a>
+                </div>
+        </div>
+        <div class="sec-photo">
+            <img class="photo-frame" src="img/front-page/couples.jpg" />
+                <div>
+                     <a href="couples.html" class="photo-text" lng-tag="couples">
+                     </a>
+                </div>
+        </div>
+        <div class="sec-photo">
+            <img class="photo-frame" src="img/front-page/portrait.jpg" />
+                <div>
+                     <a href="portrait.html" class="photo-text" lng-tag="portrait">
+                     </a>
+                </div>
+        </div>
+        <div class="sec-photo last">
+            <img class="photo-frame" src="img/front-page/event.jpg" />
+                <div>
+                    <a href="event.html" class="photo-text" lng-tag="event"></a>
+                </div>
+        </div>
+    </div>
+	<footer>
+        <div class="footer-container">
+            <div class="footer-left">
+                <div class="low-menu-lang">
+                    <a id="enTranslator" href="javascript:void(0);">EN</a>
+                    <a id="fiTranslator" href="javascript:void(0);">FI</a>
+                    <a id="svTranslator" href="javascript:void(0);">SV</a>   
+                </div>
+                <div class="low-menu">
+                    <a href="wedding.html" lng-tag="wedding"></a>
+                    <a href="contact.html" lng-tag="contact"></a>
+                    <a href="about.html" lng-tag="about"></a>
+                    <a href="pricing.html" lng-tag="pricing"></a>
+                </div>
+            </div>
+            <div class="footer-right">
+                <div class="social">
+                    <!--<a href="#" class="fa fa-facebook social-fb"></a>-->
+                    <a href="https://www.instagram.com/haavalokuvaajatmjam" class="fa fa-instagram social-ig"></a>
+                </div>   
+            </div>
+        </div>    
+        <div>
+            <p lng-tag="footer"></p>
+        </div>
+    </footer>
+</body>
+</html>
