@@ -201,7 +201,7 @@ a.link-none:hover {
 
 .banner-parallax {
  
-  background-image: url("img/front-page/background.jpg");
+  background-image: url("../img/front-page/background.jpg");
   min-height: 750px; 
   width: 100%;
   background-attachment: fixed;
@@ -362,6 +362,10 @@ a.lang-select {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
+}
+
+.container a{
+  object-fit: cover;
 }
 
 .container-album {
