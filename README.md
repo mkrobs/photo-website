@@ -3,14 +3,13 @@
 ### Suggestions
 - Add your suggestions
 
-### Large page component templates 
-- *In templates.html*
+### Large page component templates *In templates.html*
 - Image with side text left
 - Image with side text right
 - Full width parallax banner
 - Full width image
 - Full width image with title
-- Porftolio gallery
+- Porftolio gallery (gallery + lightbox in *gallery-template.html*)
 - Colorful banner with text
 - Colorful banner huge text
 - CTA-button banner
@@ -18,9 +17,15 @@
 - Three foto banner
 - information banner
 
+### Gallery lightbox (photoswipe)
+- Import css + js
+- Set gallery name(s) in head
+- Resolutions for thumbnail and photos
+- If thumbnails have different resolution than photo, disable zoom animations
+
 
 ## Photos
-- Template: Portofolio gallery (Bröllop: 4, 8, 16, 27;
+- Template: Portofolio gallery (Bröllop juli: 4, 8, 16, 27;
                                 Wedding turkey 1: 17, 26, 39, 49;
                                 Wedding turkey 2: 129e, 130, 130d, 135, 140, 142, 151)
 
@@ -81,34 +86,32 @@
 - [x] ~~add social media buttons~~
 - [ ] write "about page" text
 - [ ] define pricing categories
-- [ ] create a logo
+- [x] create a logo
 - [ ] create a color theme
 - [ ] replace header title with logo (can be logo+title)
 - [ ] move header title to header hero (maybe)
 - [x] ~~create a set of templates for the wedding page~~
+- [ ] create contact form and emailing function
 
 
 ### When index.html is ready:
 - [ ] create sub pages for product categories
-- [ ] create contact page and contact form
+- [ ] create contact page
 - [ ] create pricing module/page
 - [ ] create portfolio modules/page
 - [ ] create about page
-- [ ] portfolio page: expanding gallery photos (open in a viewer when clicked)
+- [x] portfolio page: expanding gallery photos (open in a viewer when clicked)
 
-### When pages are ready:
-- [ ] create fi and sv variants of the page
-- [ ] choose default language for the site
-- [ ] connect contact form to a backend
 
 ### Before publishing
 - [ ] add alt text for images
+- [ ] edit photos in detail and color grade
 - [ ] clear out unused files
 - [ ] clean CSS
 - [ ] clear duplicate JS
-- [ ] edit photos in detail and color grade
 - [ ] test different browsers
 - [ ] check different devices and screen sizes
+- [ ] create fi and sv variants of the page
 
 ## Problems
 - ~~home page photo not resizing / not responsive~~ (background-size: auto)
@@ -161,7 +164,7 @@
 ### 3.3 Graphics & styling
 - Main brand logo (*.svg)
 - Fonts and titles
-- Color theme (three main colors)
+- Color theme (three main colors?)
 
 
 # Resources 
