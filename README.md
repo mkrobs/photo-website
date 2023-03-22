@@ -100,7 +100,7 @@
 - [ ] create pricing module/page
 - [ ] create portfolio modules/page
 - [ ] create about page
-- [x] portfolio page: expanding gallery photos (open in a viewer when clicked)
+- [x] ~portfolio page: expanding gallery photos (open in a viewer when clicked)~
 
 
 ### Before publishing
@@ -122,6 +122,7 @@
 - ~~menu switches back and forth between icon and text when resizing (not a big issue)~~
 - ~~menu pushes title & menu icon moves when clicked~~
 - expanded menu empty space
+- ~~mobile version: title is pushed from header (remove sticky header for mobile version)~~
 
 ## 1. Purpose
 - A website to advertise photography services.

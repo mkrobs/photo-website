@@ -24,7 +24,15 @@ function showMenu() {
 
 
 function setMenu() {
-  if ($(window).width() < 1280) {
+  
+
+  if ($(window).width() < 540) {
+    document.getElementById("stickyheader").style.fontSize = "12px";
+    document.getElementById("stickyheader").style.height = "85px";
+    document.getElementById("logo").style.height = "50px";
+  }
+
+  else if ($(window).width() > 540 && $(window).width() < 1280) {
     document.getElementById("stickyheader").style.fontSize = "15px";
     document.getElementById("stickyheader").style.height = "100px";
     document.getElementById("logo").style.height = "75px";
@@ -34,6 +42,7 @@ function setMenu() {
     document.getElementById("stickyheader").style.height = "175px";
     document.getElementById("logo").style.height = "150px";
   }
+  
 }
 
 
