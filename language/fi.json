@@ -1,5 +1,41 @@
 {
     "title": "FI: M&M Photography",
 
-    "title_sub": "FI: Wedding and Portrait Photography"
+    "title_sub": "FI: Wedding and Portrait Photography",
+
+    "title-sub": "Wedding and Portrait Photography",
+
+    "title-low": "&nbsp;M & M Photography&nbsp;",
+
+    "home": "Home",
+
+    "portfolio": "Portfolio",
+
+    "about": "About",
+
+    "contact": "Contact",
+
+    "pricing": "Pricing",
+
+    "wedding": "Wedding",
+
+    "couples": "Couples",
+
+    "portrait": "Portrait",
+
+    "event": "Events",
+
+    "footer": "2023 Copyright M&M Photography © All rights reserved.",
+
+    "c-button": "Book Us!",
+
+    "about-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+
+    "color-bannner-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    
+    "banner-huge-title": "Lorem ipsum dolor sit amet, consectetur",
+
+    "plan-wed-title": "Planning a Wedding?"
+
 }
+
