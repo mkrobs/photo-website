@@ -3,7 +3,7 @@
 ### Suggestions
 - Add your suggestions
 
-### Large page component templates *In templates.html*
+### Large page component templates (*In templates.html*)
 - Image with side text left
 - Image with side text right
 - Full width parallax banner
@@ -172,6 +172,7 @@
 - [Styling Examples](https://getbootstrap.com/docs/5.3/examples/cheatsheet/)
 - [CSS screen size](https://www.tutorialspoint.com/changing-layouts-based-on-screen-size-using-css)
 - [::before ::after](https://css-tricks.com/almanac/selectors/a/after-and-before/)
+- [Photoswipe gallery + lightbox](https://photoswipe.com/getting-started/)
 
 # Wedding photography site examples
 - (https://www.emmasurell.se/brollopsfotograf-stockholm/)
