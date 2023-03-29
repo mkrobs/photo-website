@@ -16,6 +16,7 @@
 - Contact form (not made yet)
 - Three foto banner
 - information banner
+- Pricing Cards
 
 ### Gallery lightbox (photoswipe)
 - Import css + js
@@ -122,7 +123,7 @@
 - ~~menu switches back and forth between icon and text when resizing (not a big issue)~~
 - ~~menu pushes title & menu icon moves when clicked~~
 - expanded menu empty space
-- ~~mobile version: title is pushed from header (remove sticky header for mobile version)~~
+- ~~mobile version: title is pushed from header (remove sticky header for mobile version)~~(minimum resolution 320px)
 
 ## 1. Purpose
 - A website to advertise photography services.
@@ -174,6 +175,10 @@
 - [CSS screen size](https://www.tutorialspoint.com/changing-layouts-based-on-screen-size-using-css)
 - [::before ::after](https://css-tricks.com/almanac/selectors/a/after-and-before/)
 - [Photoswipe gallery + lightbox](https://photoswipe.com/getting-started/)
+- [Pricing Examples](https://getbootstrap.com/docs/5.3/examples/pricing/)
+- [Bootstrap Cheatsheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/)
+- [Bootstrap examples](https://getbootstrap.com/docs/5.3/examples/heroes/)
+- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 # Wedding photography site examples
 - (https://www.emmasurell.se/brollopsfotograf-stockholm/)

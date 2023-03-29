@@ -10,7 +10,7 @@ a:visited {
 
 a:hover {
   text-decoration: none;
-  color: rgb(81, 169, 228);
+  color: rgb(176, 228, 252);
 }
 
 a:active {
@@ -26,7 +26,6 @@ body {
 
 header {
   position: fixed;
-  font-size: 30px;
   width: 100%;
   margin-bottom: 0px;
   height: 170px;
@@ -69,6 +68,16 @@ h2 {
   }
 }
 
+@media screen and (max-width: 540px) {
+  header {
+    height: 85px;
+    font-size: 10px;
+  }
+  .logo {
+    height: 50px;
+  }
+}
+
 
 footer {
   background: rgb(202, 202, 202);
@@ -88,6 +97,7 @@ footer p {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  position: relative;
 }
 
 .footer-text {
@@ -151,6 +161,10 @@ footer p {
 
 .header-spacer {
   margin-bottom: 200px;
+}
+
+.header-spacer-150 {
+  margin-bottom: 150px;
 }
 
 .title {
@@ -639,7 +653,7 @@ a.lang-select {
   
   .contact-button {
     display: inline-block;
-    padding: 15px 25px;
+    padding: 10px 35px;
     font-size: 24px;
     cursor: pointer;
     text-align: center;
@@ -651,6 +665,10 @@ a.lang-select {
     border-radius: 15px;
     box-shadow: 0 9px #999;
   }
+
+  .contact-button p{
+    padding: 0px;
+  }
   
   .contact-button:hover {
     background-color: #49a6db;
@@ -661,6 +679,13 @@ a.lang-select {
     box-shadow: 0 5px #666;
     transform: translateY(4px);
   }
+
+.cb-price {
+  padding: 0px 20px;
+  font-size: 20px;
+}
+  
+  
   
 
   .contact-contain {
@@ -686,8 +711,6 @@ a.lang-select {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
-    border-style: solid;
-    border-color: rgb(0, 0, 0);
     margin: 10px;
     box-sizing: border-box;
   }
@@ -707,20 +730,23 @@ a.lang-select {
     font-size: 20px;
     background-color: rgb(221, 241, 254);
     color: rgb(2, 2, 2);;
+    border: none;
+    border-bottom: 1px, solid, black;
   }
 
 .contact-form input[type=submit]{
   background-color: #62c1e3;
-  border: none;
   color: white;
   padding: 16px 32px;
   text-decoration: none;
   margin: 4px 2px;
   cursor: pointer;
+
 }
 
 .contact-form input[type=submit]:hover {
   background-color: #afdcf4;
+  border: none;
 }
 
   .contact-form textarea{
@@ -730,5 +756,67 @@ a.lang-select {
     background-color: rgb(221, 241, 254);
     color: rgb(2, 2, 2);
     resize: none;
+    border: none;
+    border-bottom: 1px, solid, black;
   }
 
+.pricing {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+
+
+
+.price-card {
+  position: relative;
+  padding: 0px;
+  margin: 15px;
+  border: 2px solid black;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.pricing img {
+  width: 100%;
+}
+
+.price-card-title {
+  position: absolute;
+  top: 60%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+
+}
+
+.price-card-title h1{
+  font-size: 30px;
+  width: 90%;
+  background-color: #62c1e3;
+  color: white;
+  padding: 5px 0px ;
+}
+
+.card-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 5px 10px 5px;
+  padding: 10px;
+}
+
+.card-info h2{
+  background-color: #62c1e3;
+  color: white;
+  font-size: 20px;
+  align-content: center;
+  padding: 15px;
+}
+
+.card-text {
+  margin: 5px 10px
+}

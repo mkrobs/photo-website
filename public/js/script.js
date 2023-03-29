@@ -27,7 +27,7 @@ function setMenu() {
   
 
   if ($(window).width() < 540) {
-    document.getElementById("stickyheader").style.fontSize = "12px";
+    document.getElementById("stickyheader").style.fontSize = "10px";
     document.getElementById("stickyheader").style.height = "85px";
     document.getElementById("logo").style.height = "50px";
   }
@@ -56,6 +56,18 @@ function scrollFunction() {
       document.getElementById("stickyheader").style.fontSize = "30px";
       document.getElementById("stickyheader").style.height = "175px";
       document.getElementById("logo").style.height = "150px";
+    }
+  }
+
+  else if ($(window).width() < 540) {
+    if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+      document.getElementById("stickyheader").style.fontSize = "10px";
+      document.getElementById("stickyheader").style.height = "85px";
+      document.getElementById("logo").style.height = "50px";
+    } else {
+      document.getElementById("stickyheader").style.fontSize = "10px";
+      document.getElementById("stickyheader").style.height = "85px";
+      document.getElementById("logo").style.height = "50px";
     }
   }
   else {  
