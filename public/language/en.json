@@ -37,32 +37,32 @@
 
     "plan-wed-title": "Planning a Wedding?",
 
-    "wpack-1": "Wedding Package Cheap",
-
-    "wpack-2": "Wedding Package Normal",
-
-    "wpack-3": "Wedding Package Luxury",
-
     "wpack-port": "Wedding Portrait Session",
 
-    "wpack-1-t": "-description<br>-some text<br>-some more text",
+    "wpack-port-t": "Wedding couple portraits<br>1 hour <br>Delivery within 2 weeks",
 
-    "wpack-2-t": "-description<br>-some text<br>-some more text",
+    "wpack-port-p": "Price: 400",
+
+    "wpack-1": "Wedding Package<br> 2",
+
+    "wpack-1-t": "Wedding couple portraits<br>Ceremony documentation<br>Delivery within 2 weeks",
+
+    "wpack-1-p": "Price: 700",
+
+    "wpack-2": "Wedding Package <br> 3",
+
+    "wpack-2-t": "Wedding couple portraits<br>Ceremony documentation<br>Wedding party documentation<br>8 hours<br>Delivery within 3 weeks",
+
+    "wpack-2-p": "Price:  1400",
+    
+    "wpack-3": "Wedding Package Luxury",
 
     "wpack-3-t": "-description<br>-some text<br>-some more text",
 
-    "wpack-port-t": "-description<br>-some text<br>-some more text",
-
-    "price": "Price",
-
-    "wpack-1-p": "Price: 1000",
-
-    "wpack-2-p": "Price:  2000",
-
     "wpack-3-p": "Price:  3000",
-
-    "wpack-port-p": "Price:  500",
-
+ 
+    "price": "Price",
+    
     "wedding-bann-titl": "\"Turning your special day into lifelong memories\"",
 
     "info-ban-w-ttl": "What we offer",

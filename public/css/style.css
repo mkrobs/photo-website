@@ -799,12 +799,11 @@ a.lang-select {
   position: relative;
   padding: 0px;
   margin: 25px;
-  border: 2px solid black;
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column;
   justify-content: space-between;
-  box-shadow: 5px 10px 5px rgb(152, 152, 152);
+  box-shadow: 10px 10px 5px rgb(152, 152, 152);
 }
 
 .pricing img {
@@ -846,6 +845,10 @@ a.lang-select {
 
 .card-text {
   margin: 5px 10px
+}
+
+.card-text p{
+  text-align: left;
 }
 
 .italic {
