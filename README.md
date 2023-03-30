@@ -1,8 +1,9 @@
 # Wedding Photography Website
 
 ## 
-- Run live-server in public to view site
+- Run live-server in 'Public' to view site
 - Change language by changing 'en' to 'fi' or 'sv' in: body class="home" onload="translate('en','lng-tag')"
+- (Was set to change by clicking the language in the menu, but changed to different pages for SEO)
 
 ### Suggestions
 - Add your suggestions
@@ -98,7 +99,7 @@
 - [ ] define pricing categories
 - [x] create a logo
 - [ ] create a color theme
-- [ ] ~~ replace header title with logo (can be logo+title)~~
+- [ ] ~~replace header title with logo (can be logo+title)~~
 - [ ] ~~move header title to header hero (maybe)~~
 - [x] ~~create a set of templates for the wedding page~~
 - [x] ~~create contact form and emailing function (not emailing but posting)~~
