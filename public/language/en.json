@@ -39,7 +39,7 @@
 
     "wpack-port": "Wedding Portrait Session",
 
-    "wpack-port-t": "Wedding couple portraits<br>1 hour <br>Delivery within 2 weeks",
+    "wpack-port-t": "Wedding couple portraits<br>Delivery within 2 weeks",
 
     "wpack-port-p": "Price: 400",
 
@@ -95,21 +95,21 @@
 
     "ppack-port": "1 Hour Portrait Session",
 
+    "ppack-port-t": "E.g. Couple, pregnancy, engagement,<br> or baby photography<br>Delivery within 2 weeks",
+
+    "ppack-port-p": "Price: 80",
+
     "ppack-1-t": "-description<br>-some text<br>-some more text",
+
+    "ppack-1-p": "Price: 1000",
 
     "ppack-2-t": "-description<br>-some text<br>-some more text",
 
     "ppack-3-t": "-description<br>-some text<br>-some more text",
 
-    "ppack-port-t": "-description<br>-some text<br>-some more text",
-
-    "ppack-1-p": "Price: 1000",
-
     "ppack-2-p": "Price:  2000",
 
     "ppack-3-p": "Price:  3000",
-
-    "ppack-port-p": "Price:  500",
 
     "contact-name": "Your name",
 
