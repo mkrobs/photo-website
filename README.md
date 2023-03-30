@@ -17,6 +17,7 @@
 - Three foto banner
 - information banner
 - Pricing Cards
+- Pricing Cards with connected values
 
 ### Gallery lightbox (photoswipe)
 - Import css + js
@@ -185,4 +186,5 @@
 - (https://www.ellenkivisto.com/svenska/)
 - (https://fotografjennifernilsson.se/brollopsfotografering/)
 - [Simple contact form example](https://lottapolviander.com/yhteystiedot)
+-[Pricinf form example](https://www.hannuhakalaimage.com/valokuvaus)
 - [title]()

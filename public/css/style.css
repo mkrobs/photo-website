@@ -410,11 +410,11 @@ a.lang-select {
   top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 40px;
+  font-size: 60px;
   background-color: rgba(144, 144, 144, 0.2);
   color: white;
   margin: 10px;
-  padding: 10px;
+  padding: 20px;
 }
 
 .two-elements {
@@ -734,13 +734,14 @@ a.lang-select {
     border-bottom: 1px, solid, black;
   }
 
-.contact-form input[type=submit]{
+.contact-form button{
   background-color: #62c1e3;
   color: white;
   padding: 16px 32px;
   text-decoration: none;
   margin: 4px 2px;
   cursor: pointer;
+  font-size: 20px;
 
 }
 
@@ -788,8 +789,9 @@ a.lang-select {
 .price-card-title {
   position: absolute;
   top: 60%;
-  left: 30%;
+  left: 31%;
   transform: translate(-50%, -50%);
+  min-width: 300px;
 
 }
 

@@ -33,6 +33,32 @@
     
     "banner-huge-title": "Lorem ipsum dolor sit amet, consectetur",
 
-    "plan-wed-title": "Planning a Wedding?"
+    "plan-wed-title": "Planning a Wedding?",
+
+    "wpack-1": "Wedding Package Cheap",
+
+    "wpack-2": "Wedding Package Normal",
+
+    "wpack-3": "Wedding Package Luxury",
+
+    "wpack-port": "Wedding Portrait Session",
+
+    "wpack-1-t": "-description<br>-some text<br>-some more text",
+
+    "wpack-2-t": "-description<br>-some text<br>-some more text",
+
+    "wpack-3-t": "-description<br>-some text<br>-some more text",
+
+    "wpack-port-t": "-description<br>-some text<br>-some more text",
+
+    "price": "Price",
+
+    "wpack-1-p": "Price: 1000",
+
+    "wpack-2-p": "Price:  2000",
+
+    "wpack-3-p": "Price:  3000",
+
+    "wpack-port-p": "Price:  500"
 
 }
