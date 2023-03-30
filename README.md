@@ -16,8 +16,11 @@
 - Contact form (not made yet)
 - Three foto banner
 - information banner
+- Information banner with connected values
 - Pricing Cards
 - Pricing Cards with connected values
+- Photo Gallery with Lightbox
+- Pricing cards with connected values (portrait page)
 
 ### Gallery lightbox (photoswipe)
 - Import css + js
@@ -94,11 +97,11 @@
 - [ ] move header title to header hero (maybe)
 - [x] ~~create a set of templates for the wedding page~~
 - [ ] create contact form and emailing function
-
+- [ ] global javascript function for contact button
 
 ### When index.html is ready:
 - [ ] create sub pages for product categories
-- [ ] create contact page
+- [x] create contact page
 - [ ] create pricing module/page
 - [ ] create portfolio modules/page
 - [ ] create about page
@@ -180,11 +183,12 @@
 - [Bootstrap Cheatsheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/)
 - [Bootstrap examples](https://getbootstrap.com/docs/5.3/examples/heroes/)
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- [Firebase Database connection](https://github.com/kpDemos/simpleDatabase)
 
 # Wedding photography site examples
 - (https://www.emmasurell.se/brollopsfotograf-stockholm/)
 - (https://www.ellenkivisto.com/svenska/)
 - (https://fotografjennifernilsson.se/brollopsfotografering/)
 - [Simple contact form example](https://lottapolviander.com/yhteystiedot)
--[Pricinf form example](https://www.hannuhakalaimage.com/valokuvaus)
+- [Pricinf form example](https://www.hannuhakalaimage.com/valokuvaus)
 - [title]()

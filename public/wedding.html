@@ -7,10 +7,22 @@
 	<title>M & M Photography</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="css/photoswipe.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
     <script src="js/translate.js"></script>
     <script src="js/index.js"></script>
+    <script type="module">
+        import PhotoSwipeLightbox from './js/photoswipe-lightbox.esm.js';
+        const lightbox = new PhotoSwipeLightbox({
+          gallery: '#gallery--wedding',
+          children: 'a',
+          showHideAnimationType: 'none',
+          zoomAnimationDuration: false,
+          pswpModule: () => import('./js/photoswipe.esm.js')
+        });
+        lightbox.init();
+        </script>
 </head>
 <body class="home" onload="translate('en','lng-tag')">
     <header id="stickyheader">
@@ -39,7 +51,7 @@
             </a>
             <div class="topnav-space"></div>
             <a href="wedding.html" lng-tag="wedding"></a>
-            <a href="pricing.html" lng-tag="portrait"></a>
+            <a href="portrait.html" lng-tag="portrait"></a>
             <a href="about.html" lng-tag="about"></a>
             <a href="contact.html" lng-tag="contact"></a>
                 <a class="lang-select" id="enTranslator" href="../index.html">EN</a>
@@ -58,6 +70,13 @@
         </div>
     </div>
 
+    <!-- Colorful banner huge text-->
+    <div class="container">
+        <div class="color-banner-huge italic white">
+            <p lng-tag="wedding-bann-titl"></p>
+        </div>
+    </div>
+
     <div class="container">
         <div class="pricing">
             <div class="price-card">
@@ -68,7 +87,7 @@
                 </div>
                 <div class="card-info">
                     <h2 lng-tag="wpack-port-p"></h2>
-                    <button class="contact-button cb-price" type="button" ><a href="contact.html"><p lng-tag="c-button"></p></a></button>
+                    <button class="contact-button" type="button" onclick="window.location.href='contact.html';" lng-tag="c-button"> Contact Us!</button>
                 </div>
             </div>
             <div class="price-card">
@@ -79,7 +98,7 @@
                 </div>
                 <div class="card-info">
                     <h2 lng-tag="wpack-1-p"></h2>
-                    <button class="contact-button cb-price" type="button" ><a href="contact.html"><p lng-tag="c-button"></p></a></button>
+                    <button class="contact-button" type="button" onclick="window.location.href='contact.html';" lng-tag="c-button"> Contact Us!</button>
                 </div>
             </div>
             <div class="price-card">
@@ -90,7 +109,7 @@
                 </div>
                 <div class="card-info">
                     <h2 lng-tag="wpack-2-p"></h2>
-                    <button class="contact-button cb-price" type="button" ><a href="contact.html"><p lng-tag="c-button"></p></a></button>
+                    <button class="contact-button" type="button" onclick="window.location.href='contact.html';" lng-tag="c-button"> Contact Us!</button>
                 </div>
             </div>
             <div class="price-card">
@@ -101,11 +120,116 @@
                 </div>
                 <div class="card-info">
                     <h2 lng-tag="wpack-3-p"></h2>
-                    <button class="contact-button cb-price" type="button" ><a href="contact.html"><p lng-tag="c-button"></p></a></button>
+                    <button class="contact-button" type="button" onclick="window.location.href='contact.html';" lng-tag="c-button"> Contact Us!</button>
                 </div>
             </div>
         </div>
     </div>
+
+    <div class="container">   
+        <div class="pswp-gallery pswp-gallery--single-column gallery-hover" id="gallery--wedding">
+        
+            <a href="img/template/p-gallery-1/3.jpg"
+                data-pswp-width="2000" 
+                data-pswp-height="1333" 
+                
+                target="_blank">
+                <img src="img/template/p-gallery-1/3-200.jpg" alt="" /></a>
+
+            <a href="img/template/p-gallery-1/13.jpg"
+                data-pswp-width="1280" 
+                data-pswp-height="1920" 
+                
+                target="_blank">
+                <img src="img/template/p-gallery-1/13-200.jpg" alt="" /></a>
+
+            <a  href="img/template/p-gallery-1/8.jpg"
+                data-pswp-width="2000" 
+                data-pswp-height="1333" 
+                
+                target="_blank">
+                <img src="img/template/p-gallery-1/8-200.jpg" alt="" /></a>
+
+            <a  href="img/template/p-gallery-1/9.jpg"
+                data-pswp-width="1333" 
+                data-pswp-height="2000" 
+                
+                target="_blank">
+                <img src="img/template/p-gallery-1/9-200.jpg" alt="" /></a>
+
+            <a  href="img/template/p-gallery-1/2.jpg"
+                data-pswp-width="2000" 
+                data-pswp-height="1333" 
+                
+                target="_blank">
+                <img src="img/template/p-gallery-1/2-200.jpg" alt="" /></a>
+
+            <a  href="img/template/p-gallery-1/11.jpg"
+                data-pswp-width="1286" 
+                data-pswp-height="2000" 
+                
+                target="_blank">
+                <img src="img/template/p-gallery-1/11-200.jpg" alt="" /></a>
+
+            <a  href="img/template/p-gallery-1/6.jpg"
+                data-pswp-width="2000" 
+                data-pswp-height="1333" 
+                 
+                target="_blank">
+                <img src="img/template/p-gallery-1/6-200.jpg" alt="" /></a>
+
+            <a  href="img/template/p-gallery-1/4.jpg"
+                data-pswp-width="2000" 
+                data-pswp-height="1307" 
+                
+                target="_blank">
+                <img src="img/template/p-gallery-1/4-200.jpg" alt="" /></a>
+
+            <a  href="img/template/p-gallery-1/15.jpg"
+                data-pswp-width="1280" 
+                data-pswp-height="1920" 
+                
+                target="_blank">
+                <img src="img/template/p-gallery-1/15-200.jpg" alt="" /></a>
+        </div>
+    </div>
+
+    <!-- Information banner with connected values-->
+<div class="container">
+    <div class="info-banner white">
+        <div>
+            <h2 lng-tag="info-ban-w-ttl">Overhead Title</h2>
+        </div>
+        <div class="info-banner-divs bg-lblue">
+            <div>
+                <h3 lng-tag="info-ban-w-sttl1">Title</h3>
+                <p lng-tag="info-ban-w-txt1">text text text text text text text text text text text texttext text text text text text text text text text text text</p>
+            </div>
+            <div>
+                <h3 lng-tag="info-ban-w-sttl2">Title</h3>
+                <p lng-tag="info-ban-w-txt2">text text text text text text text text text text text texttext text text text text text text text text text text text</p>
+            </div>
+            <div>
+                <h3 lng-tag="info-ban-w-sttl3">Title</h3>
+                <p lng-tag="info-ban-w-txt3">text text text text text text text text text text text texttext text text text text text text text text text text text</p>
+            </div>
+            <div>
+                <h3 lng-tag="info-ban-w-sttl4">Title</h3>
+                <p lng-tag="info-ban-w-txt4">text text text text text text text text text text text texttext text text text text text text text text text text text</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- CTA-button banner-->
+   <div class="container">
+    <div class="color-banner">
+        <div>
+            <button class="contact-button" type="button" onclick="window.location.href='contact.html';" lng-tag="c-button"> Contact Us!</button>
+        </div>
+    </div>
+    </div>
+
 
 	<footer>
         <div class="footer-container">
@@ -119,7 +243,7 @@
                     <a href="wedding.html" lng-tag="wedding"></a>
                     <a href="contact.html" lng-tag="contact"></a>
                     <a href="about.html" lng-tag="about"></a>
-                    <a href="pricing.html" lng-tag="pricing"></a>
+                    <a href="portrait.html" lng-tag="pricing"></a>
                 </div>
             </div>
             <div class="footer-right">

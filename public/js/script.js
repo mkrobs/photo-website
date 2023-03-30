@@ -1,17 +1,3 @@
-window.onload=function() { 
-    window.onscroll = function() {stickyFunction()};
-        var header = document.getElementById("stickyheader");
-        var sticky = header.offsetTop;
-
-        function stickyFunction() {
-         if (window.pageYOffset > sticky) {
-          header.classList.add("sticky");
-            } else {
-          header.classList.remove("sticky");
-             }
-        }
-  }
-
 function showMenu() {
     var x = document.getElementById("navMenu");
     if (x.className === "topnav") {
@@ -20,8 +6,6 @@ function showMenu() {
       x.className = "topnav";
     }
 }
-
-
 
 function setMenu() {
   
@@ -83,3 +67,18 @@ $(window).resize(function() {
 });
 
 window.onscroll = function() {scrollFunction()};
+
+window.onload=function() { 
+ 
+  window.onscroll = function() {stickyFunction()};
+      var header = document.getElementById("stickyheader");
+      var sticky = header.offsetTop;
+
+      function stickyFunction() {
+       if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+          } else {
+        header.classList.remove("sticky");
+           }
+      }
+} 

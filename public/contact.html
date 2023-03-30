@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>M & M Photography</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script src="js/translate.js"></script>
+    <script src="js/index.js"></script>
+</head>
+<body class="home" onload="translate('en','lng-tag')">
+    <header id="stickyheader">
+        <div>
+            <a href="index.html">
+            <img id="logo" src="logo.png" class="logo" />
+            </a>
+        </div>
+        <div class="title-element">
+            <li class="list-title">
+            <div>
+                <h1 class="title" id="title"><a href="index.html" class="link-none" lng-tag="title"></a></h1>
+            </div>
+            <div>
+                <h3 class="title-sub" lng-tag="title-sub"></h3>
+            </div>
+            </li>
+        </div>
+        <div class="topnav" id="navMenu">
+            <a href="javascript:void(0);" class="icon" onclick="showMenu()">
+                <div class="menu-icon">
+                     <div></div>
+                     <div></div>
+                     <div></div>
+                </div>
+            </a>
+            <div class="topnav-space"></div>
+            <a href="wedding.html" lng-tag="wedding"></a>
+            <a href="portrait.html" lng-tag="portrait"></a>
+            <a href="about.html" lng-tag="about"></a>
+            <a href="contact.html" lng-tag="contact"></a>
+                <a class="lang-select" id="enTranslator" href="../index.html">EN</a>
+                <a class="lang-select" id="fiTranslator" href="fi/index.html">FI</a>
+                <a class="lang-select" id="svTranslator" href="sv/index.html">SV</a>
+        </div>
+    </header>
+    <div class="header-spacer"></div>
+
+    <div class="contact-contain">
+        <div></div>
+        <div class="contact-form">
+        <div>
+         <h1>Contact Us!</h1>
+        </div>
+        <div>
+         <form id="contactForm" class="data">
+            <input
+               type="text"
+               id="name"
+               placeholder="Your name"
+               />
+            <input
+               type="email"
+               id="email"
+               placeholder="Your email"
+               />
+            <input
+               type="text"
+               id="subject"
+               placeholder="Subject"
+               />
+            <textarea
+               placeholder="Your message"
+               id="message"
+               ></textarea>
+            <button id="submit">Send Message</button>
+         </form>
+        </div>
+      </div>
+      <div></div>
+    </div>
+   
+    <script src="js/contact.js" type="module"></script>
+    
+	<footer>
+        <div class="footer-container">
+            <div class="footer-left">
+                <div class="low-menu-lang">
+                    <a id="enTranslator" href="javascript:void(0);">EN</a>
+                    <a id="fiTranslator" href="javascript:void(0);">FI</a>
+                    <a id="svTranslator" href="javascript:void(0);">SV</a>   
+                </div>
+                <div class="low-menu">
+                    <a href="wedding.html" lng-tag="wedding"></a>
+                    <a href="contact.html" lng-tag="contact"></a>
+                    <a href="about.html" lng-tag="about"></a>
+                    <a href="portrait.html" lng-tag="pricing"></a>
+                </div>
+            </div>
+            <div class="footer-right">
+                <div class="social">
+                    <!--<a href="#" class="fa fa-facebook social-fb"></a>-->
+                    <a href="https://www.instagram.com/haavalokuvaajatmjam" class="fa fa-instagram social-ig"></a>
+                </div>   
+            </div>
+        </div>    
+        <div>
+            <p lng-tag="footer"></p>
+        </div>
+    </footer>
+</body>
+</html>
