@@ -2,7 +2,7 @@
 
 ## 
 - Run live-server in public to view site
-- Change language by changing 'en' to 'fi' or 'sv' in <body class="home" onload="translate('en','lng-tag')">
+- Change language by changing 'en' to 'fi' or 'sv' in: body class="home" onload="translate('en','lng-tag')"
 
 ### Suggestions
 - Add your suggestions
