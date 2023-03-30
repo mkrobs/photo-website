@@ -1,5 +1,5 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.18.0/firebase-app.js";
-import { getDatabase, ref, get, set, push } from "https://www.gstatic.com/firebasejs/9.18.0/firebase-database.js";
+import { getDatabase, ref, set } from "https://www.gstatic.com/firebasejs/9.18.0/firebase-database.js";
 
 const config = {
 
@@ -35,19 +35,19 @@ const config = {
      function insertData(e) {
              e.preventDefault();
              if (enterName.value == "") {
-                 alert("Enter your name");
+                 alert("Please enter your name");
                  return false;
              }
              else if (enterEmail.value == "") {
-                alert("Enter your email");
+                alert("Please enter your email");
                 return false;
             }
             else if (enterSubject.value == "") {
-                alert("Enter your subject");
+                alert("Please enter your subject");
                 return false;
             }
             else if (enterMessage.value == "") {
-                alert("Enter your message");
+                alert("Please write a message");
                 return false;
             }
             else if (ValidateEmail(enterEmail.value) == false) {

@@ -107,6 +107,24 @@
 
     "ppack-3-p": "Price:  3000",
 
-    "ppack-port-p": "Price:  500"
+    "ppack-port-p": "Price:  500",
+
+    "contact-name": "Your name",
+
+    "contact-email": "Your email",
+
+    "contact-subject": "Your subject",
+
+    "contact-message": "Your message",
+
+    "contact-name-err": "Please enter your name",
+
+    "contact-email-err": "Please enter your email",
+
+    "contact-subject-err": "Please enter your subject",
+
+    "contact-message-err": "Please write a message",
+
+    "invalid-email": "You have entered an invalid email address!"
 
 }

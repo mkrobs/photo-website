@@ -1,11 +1,130 @@
 {
     "title": "SV: M&M Photography",
+    
+    "title-sub": "Wedding and Portrait Photography",
 
-    "title_sub": "SV: Wedding and Portrait Photography",
+    "title-low": "&nbsp;M & M Photography&nbsp;",
 
-    "home": "SV: Home",
+    "home": "Home",
 
-    "about": "SV: About",
+    "portfolio": "Portfolio",
 
-    "contact": "SV: Contact"
+    "about": "About",
+
+    "contact": "Contact",
+
+    "pricing": "Pricing",
+
+    "wedding": "Wedding",
+
+    "couples": "Couples",
+
+    "portrait": "Portrait",
+
+    "event": "Events",
+
+    "footer": "2023 Copyright M&M Photography © All rights reserved.",
+
+    "c-button": "Book Us!",
+
+    "about-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+
+    "color-bannner-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    
+    "banner-huge-title": "Lorem ipsum dolor sit amet, consectetur",
+
+    "plan-wed-title": "Planning a Wedding?",
+
+    "wpack-1": "Wedding Package Cheap",
+
+    "wpack-2": "Wedding Package Normal",
+
+    "wpack-3": "Wedding Package Luxury",
+
+    "wpack-port": "Wedding Portrait Session",
+
+    "wpack-1-t": "-description<br>-some text<br>-some more text",
+
+    "wpack-2-t": "-description<br>-some text<br>-some more text",
+
+    "wpack-3-t": "-description<br>-some text<br>-some more text",
+
+    "wpack-port-t": "-description<br>-some text<br>-some more text",
+
+    "price": "Price",
+
+    "wpack-1-p": "Price: 1000",
+
+    "wpack-2-p": "Price:  2000",
+
+    "wpack-3-p": "Price:  3000",
+
+    "wpack-port-p": "Price:  500",
+
+    "wedding-bann-titl": "\"Turning your special day into lifelong memories\"",
+
+    "info-ban-w-ttl": "What we offer",
+
+    "info-ban-w-sttl1": "Some Nice Things ",
+
+    "info-ban-w-txt1": "We will do this, this and this",
+
+    "info-ban-w-sttl2": "Some More Things",
+
+    "info-ban-w-txt2": "We will do this, this and this",
+
+    "info-ban-w-sttl3": "Awesome Things",
+
+    "info-ban-w-txt3": "We will do this, this and this",
+
+    "info-ban-w-sttl4": "Even More Awesome",
+
+    "info-ban-w-txt4": "We will do this, this and this",
+
+    "about-gen": "At \"Business Name\", we believe that every love story deserves to be told in a beautiful and authentic way. Our team of skilled photographers combines technical expertise with an artistic eye to capture the magic and emotion of your special day. From intimate elopements to grand celebrations, we approach each wedding with a personalized and thoughtful approach, taking the time to understand your vision and preferences. Our signature style is a blend of candid and posed shots that showcase the unique personalities and love between you and your partner. We pride ourselves on providing a friendly and professional service, making sure that you feel comfortable and at ease in front of the camera. Our goal is to create timeless and stunning images that you will cherish for years to come.",
+
+    "about-ext1": "Our team of photographers at [Business Name] is made up of experienced and talented professionals who are passionate about capturing love stories. Each member of our team has a unique style and approach to photography, but they all share a dedication to delivering exceptional service and stunning images. Our photographers have a keen eye for detail and a talent for capturing candid moments that tell the story of your wedding day. They are skilled at using natural light to create soft, romantic images and are experienced in working with different lighting conditions and environments. They have a friendly and unobtrusive approach to their work, ensuring that you and your guests feel comfortable and relaxed in front of the camera. At [Business Name], we believe that a great photographer is not just someone who takes good pictures, but someone who connects with their clients and truly understands their vision. That's why our photographers take the time to get to know you and your partner, listen to your ideas and preferences, and work closely with you to create a customized photography plan that fits your unique style and personality. In short, our photographers are not just skilled professionals, but also friendly and approachable artists who are dedicated to capturing the beauty and emotion of your wedding day in a way that is authentic, timeless, and unforgettable.",
+
+    "ppack-1": "Couple Portrait Session",
+
+    "ppack-2": "Pregnancy Photo Shoot",
+
+    "ppack-3": "Other Portrait <br> Shoot ",
+
+    "ppack-port": "1 Hour Portrait Session",
+
+    "ppack-1-t": "-description<br>-some text<br>-some more text",
+
+    "ppack-2-t": "-description<br>-some text<br>-some more text",
+
+    "ppack-3-t": "-description<br>-some text<br>-some more text",
+
+    "ppack-port-t": "-description<br>-some text<br>-some more text",
+
+    "ppack-1-p": "Price: 1000",
+
+    "ppack-2-p": "Price:  2000",
+
+    "ppack-3-p": "Price:  3000",
+
+    "ppack-port-p": "Price:  500",
+
+    "contact-name": "Your name",
+
+    "contact-email": "Your email",
+
+    "contact-subject": "Your subject",
+
+    "contact-message": "Your message",
+
+    "contact-name-err": "Please enter your name",
+
+    "contact-email-err": "Please enter your email",
+
+    "contact-subject-err": "Please enter your subject",
+
+    "contact-message-err": "Please write a message",
+
+    "invalid-email": "You have entered an invalid email address!"
+
 }
