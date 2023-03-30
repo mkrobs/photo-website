@@ -14,7 +14,7 @@
 - Colorful banner huge text
 - CTA-button banner
 - Contact form (not made yet)
-- Three foto banner
+- Three photo banner
 - information banner
 - Information banner with connected values
 - Pricing Cards
@@ -99,6 +99,7 @@
 - [x] ~~create a set of templates for the wedding page~~
 - [x] ~~create contact form and emailing function (not emailing but posting)~~
 - [ ] global javascript function for contact button
+- [ ] move contact form alerts to red warning text below the submit
 
 ### When index.html is ready:
 - [x] ~~create sub pages for product categories~~

@@ -34,6 +34,7 @@ const config = {
  
      function insertData(e) {
              e.preventDefault();
+             let randomId = Math.floor(Math.random() * 10000000);
              if (enterName.value == "") {
                  alert("Please enter your name");
                  return false;
@@ -55,11 +56,12 @@ const config = {
             }
 
              else {
-             set(ref(db, "Messages/" + enterName.value),{
+             set(ref(db, "Messages/" + randomId + enterName.value),{
                  Name: enterName.value,
                  Email: enterEmail.value,
                  Subject: enterSubject.value,
-                 Message: enterMessage.value
+                 Message: enterMessage.value,
+                 Id: randomId
              })
              .then(()=>{
                  alert("Message sent successfully!");
