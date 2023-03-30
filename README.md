@@ -90,22 +90,23 @@
 - [x] ~~add visible titles for photos on homepage~~
 - [x] ~~add social media buttons~~
 - [ ] write "about page" text
+- [x] write texts for Wedding Page
 - [ ] define pricing categories
 - [x] create a logo
 - [ ] create a color theme
-- [ ] replace header title with logo (can be logo+title)
-- [ ] move header title to header hero (maybe)
+- [ ] ~~ replace header title with logo (can be logo+title)~~
+- [ ] ~~move header title to header hero (maybe)~~
 - [x] ~~create a set of templates for the wedding page~~
-- [ ] create contact form and emailing function
+- [x] ~~create contact form and emailing function (not emailing but posting)~~
 - [ ] global javascript function for contact button
 
 ### When index.html is ready:
-- [ ] create sub pages for product categories
-- [x] create contact page
-- [ ] create pricing module/page
-- [ ] create portfolio modules/page
-- [ ] create about page
-- [x] ~portfolio page: expanding gallery photos (open in a viewer when clicked)~
+- [x] ~~create sub pages for product categories~~
+- [x] ~~create contact page~~
+- [x] ~~create pricing module/page~~
+- [x] ~~create portfolio modules/page~~
+- [x] ~~create about page~~
+- [x] ~~portfolio page: expanding gallery photos (open in a viewer when clicked)~~
 
 
 ### Before publishing
@@ -123,7 +124,7 @@
 - jumpy menu when navigating
 - ~~menu drops out of the header when resizing~~
 - pontential SEO problem for translated pages (change to website.com/lang)
-- things bounce around in the header when changing language (maybe not a problem)
+- ~~things bounce around in the header when changing language (maybe not a problem)~~
 - ~~menu switches back and forth between icon and text when resizing (not a big issue)~~
 - ~~menu pushes title & menu icon moves when clicked~~
 - expanded menu empty space

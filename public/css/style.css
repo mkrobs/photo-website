@@ -414,7 +414,7 @@ a.lang-select {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 60px;
-  background-color: rgba(144, 144, 144, 0.2);
+  background-color: rgba(146, 207, 242, 0.6);
   color: white;
   margin: 10px;
   padding: 20px;
@@ -783,7 +783,7 @@ a.lang-select {
 .price-card {
   position: relative;
   padding: 0px;
-  margin: 15px;
+  margin: 25px;
   border: 2px solid black;
   display: flex;
   flex-wrap: nowrap;
@@ -797,8 +797,8 @@ a.lang-select {
 
 .price-card-title {
   position: absolute;
-  top: 60%;
-  left: 27%;
+  top: 55%;
+  left: 30%;
   transform: translate(-50%, -50%);
   min-width: 300px;
 

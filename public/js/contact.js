@@ -34,6 +34,27 @@ const config = {
  
      function insertData(e) {
              e.preventDefault();
+             if (enterName.value == "") {
+                 alert("Enter your name");
+                 return false;
+             }
+             else if (enterEmail.value == "") {
+                alert("Enter your email");
+                return false;
+            }
+            else if (enterSubject.value == "") {
+                alert("Enter your subject");
+                return false;
+            }
+            else if (enterMessage.value == "") {
+                alert("Enter your message");
+                return false;
+            }
+            else if (ValidateEmail(enterEmail.value) == false) {
+                return false;
+            }
+
+             else {
              set(ref(db, "Messages/" + enterName.value),{
                  Name: enterName.value,
                  Email: enterEmail.value,
@@ -46,12 +67,23 @@ const config = {
              })
              .catch((error)=>{
                  alert(error);
-             });
+             });}
              
          }
  
    submitBtn.addEventListener('click', insertData);
    
-
-
-
+   function ValidateEmail(inputText)
+   {
+   var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+   if(inputText.match(mailformat))
+   {
+   return true;
+   }
+   else
+   {
+   alert("You have entered an invalid email address!");
+   return false;
+   }
+   }
+   
