@@ -1,47 +1,54 @@
 {
-    "title": "FI: M&M Photography",
+    "title": "FI: M & M Photography",
 
-    "title-sub": "Wedding and Portrait Photography",
+    "title-sub": "Hää- ja henkilökuvaus",
 
     "title-low": "&nbsp;M & M Photography&nbsp;",
 
-    "home": "Home",
+    "home": "Kotisivu",
 
     "portfolio": "Portfolio",
 
-    "about": "About",
+    "about": "Meistä",
 
-    "contact": "Contact",
+    "contact": "Ota yhteyttä",
 
-    "pricing": "Pricing",
+    "pricing": "Hinnasto",
 
-    "wedding": "Wedding",
+    "wedding": "Häät",
 
-    "couples": "Couples",
+    "couples": "Pariskunnat",
 
-    "portrait": "Portrait",
+    "portrait": "Henkilökuvat",
 
-    "event": "Events",
+    "event": "Tapahtumat",
 
     "footer": "2023 Copyright M&M Photography © All rights reserved.",
 
-    "c-button": "Book Us!",
+    "c-button": "Ota yhteyttä",
 
-    "about-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "about-content": "Olemme valokuvaajatiimi Mikael ja Merve.
+
+Mikael: olen 33-vuotias valokuvaaja kotoisin Paraisilta. Olen toiminut valokuvaajana yli kymmenen vuotta. Mahtavinta valokuvaajan ammatissa on mahdollisuus olla mukana todistamassa ihmisten tärkeimpiä hetkiä elämässä. 
+
+Merve: olen 33-vuotias turkulainen valokuvaaja, alunperin kotoisin Turkista. Valokuvaajana olen luova ideanikkari ja minulle on tärkeätä luoda täydellinen ilmapiiri, jotta juuri sinä tuntisit olosi mukavaksi meidän kuvauksissamme.
+
+Nyt olemme yhdistäneet voimamme ja aloittaneet valokuvaamisen yhdessä luodaksemme teille asiakkaillemme mahdollisimman ikimuistoiset kuvaukset. Pidetään hauskaa yhdessä! 
+",
 
     "color-bannner-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     
     "banner-huge-title": "Lorem ipsum dolor sit amet, consectetur",
 
-    "plan-wed-title": "Planning a Wedding?",
+    "plan-wed-title": "Suunnitteletko häitä?",
 
-    "wpack-1": "Wedding Package Cheap",
+    "wpack-1": "Hääpaketti 1",
 
-    "wpack-2": "Wedding Package Normal",
+    "wpack-2": "Hääpaketti 2",
 
-    "wpack-3": "Wedding Package Luxury",
+    "wpack-3": "Hääpaketti 3",
 
-    "wpack-port": "Wedding Portrait Session",
+    "wpack-port": "Hääpotretti",
 
     "wpack-1-t": "-description<br>-some text<br>-some more text",
 
@@ -51,15 +58,15 @@
 
     "wpack-port-t": "-description<br>-some text<br>-some more text",
 
-    "price": "Price",
+    "price": "Hinnat",
 
-    "wpack-1-p": "Price: 1000",
+    "wpack-1-p": "Hinta: 400",
 
-    "wpack-2-p": "Price:  2000",
+    "wpack-2-p": "Hinta:  700",
 
-    "wpack-3-p": "Price:  3000",
+    "wpack-3-p": "Hinta:  1400",
 
-    "wpack-port-p": "Price:  500",
+    "wpack-port-p": "Hinta:  80",
 
     "wedding-bann-titl": "\"Turning your special day into lifelong memories\"",
 
@@ -85,13 +92,13 @@
 
     "about-ext1": "Second text on about page",
 
-    "ppack-1": "Couple Portrait Session",
+    "ppack-1": "Pariskuntakuvaus",
 
-    "ppack-2": "Pregnancy Photo Shoot",
+    "ppack-2": "Odotuskuvaus",
 
     "ppack-3": "Other Portrait <br> Shoot ",
 
-    "ppack-port": "1 Hour Portrait Session",
+    "ppack-port": "Tunnin mittainen henkilökuvaus,
 
     "ppack-1-t": "-description<br>-some text<br>-some more text",
 
@@ -101,30 +108,30 @@
 
     "ppack-port-t": "-description<br>-some text<br>-some more text",
 
-    "ppack-1-p": "Price: 1000",
+    "ppack-1-p": "Hinta: 400",
 
-    "ppack-2-p": "Price:  2000",
+    "ppack-2-p": "Hinta:  700",
 
-    "ppack-3-p": "Price:  3000",
+    "ppack-3-p": "Hinta:  1400",
 
-    "ppack-port-p": "Price:  500",
+    "ppack-port-p": "Hinta:  80",
 
-    "contact-name": "Your name",
+    "contact-name": "Nimi",
 
-    "contact-email": "Your email",
+    "contact-email": "Sähköposti",
 
-    "contact-subject": "Your subject",
+    "contact-subject": "Otsikko",
 
-    "contact-message": "Your message",
+    "contact-message": "Viesti",
 
-    "contact-name-err": "Please enter your name",
+    "contact-name-err": "Tämä kenttä on pakollinen.",
 
-    "contact-email-err": "Please enter your email",
+    "contact-email-err": "Tämä kenttä on pakollinen.",
 
-    "contact-subject-err": "Please enter your subject",
+    "contact-subject-err": "Tämä kenttä on pakollinen.",
 
-    "contact-message-err": "Please write a message",
+    "contact-message-err": "Tämä kenttä on pakollinen.",
 
-    "invalid-email": "You have entered an invalid email address!"
+    "invalid-email": "Annoit virheellisen sähköpostiosoitteen."
 
 }
