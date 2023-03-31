@@ -66,19 +66,24 @@ $(window).resize(function() {
   setMenu();
 });
 
-window.onscroll = function() {scrollFunction()};
-
-window.onload=function() { 
- 
-  window.onscroll = function() {stickyFunction()};
-      var header = document.getElementById("stickyheader");
+function stickyFunction() {
+         var header = document.getElementById("stickyheader");
+      var icon = document.getElementById("hamburger")
       var sticky = header.offsetTop;
-
-      function stickyFunction() {
-       if (window.pageYOffset > sticky) {
-        header.classList.add("sticky");
+       if (window.pageYOffset > sticky && $(window).width() < 540) {
+        header.classList.add("non-sticky");
+       // icon.classList.add("sticky-icon");
           } else {
-        header.classList.remove("sticky");
+        header.classList.remove("non-sticky");
+       // icon.classList.remove("sticky-icon");
            }
       }
-} 
+
+window.onscroll = () => 
+  {scrollFunction(), stickyFunction()}
+
+ 
+ 
+     
+
+      

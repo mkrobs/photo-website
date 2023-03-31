@@ -27,14 +27,7 @@
 
     "c-button": "Ota yhteyttä",
 
-    "about-content": "Olemme valokuvaajatiimi Mikael ja Merve.
-
-Mikael: olen 33-vuotias valokuvaaja kotoisin Paraisilta. Olen toiminut valokuvaajana yli kymmenen vuotta. Mahtavinta valokuvaajan ammatissa on mahdollisuus olla mukana todistamassa ihmisten tärkeimpiä hetkiä elämässä. 
-
-Merve: olen 33-vuotias turkulainen valokuvaaja, alunperin kotoisin Turkista. Valokuvaajana olen luova ideanikkari ja minulle on tärkeätä luoda täydellinen ilmapiiri, jotta juuri sinä tuntisit olosi mukavaksi meidän kuvauksissamme.
-
-Nyt olemme yhdistäneet voimamme ja aloittaneet valokuvaamisen yhdessä luodaksemme teille asiakkaillemme mahdollisimman ikimuistoiset kuvaukset. Pidetään hauskaa yhdessä! 
-",
+    "about-content": "Olemme valokuvaajatiimi Mikael ja Merve. Mikael: olen 33-vuotias valokuvaaja kotoisin Paraisilta. Olen toiminut valokuvaajana yli kymmenen vuotta. Mahtavinta valokuvaajan ammatissa on mahdollisuus olla mukana todistamassa ihmisten tärkeimpiä hetkiä elämässä. Merve: olen 33-vuotias turkulainen valokuvaaja, alunperin kotoisin Turkista. Valokuvaajana olen luova ideanikkari ja minulle on tärkeätä luoda täydellinen ilmapiiri, jotta juuri sinä tuntisit olosi mukavaksi meidän kuvauksissamme. Nyt olemme yhdistäneet voimamme ja aloittaneet valokuvaamisen yhdessä luodaksemme teille asiakkaillemme mahdollisimman ikimuistoiset kuvaukset. Pidetään hauskaa yhdessä!",
 
     "color-bannner-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     
@@ -68,8 +61,7 @@ Nyt olemme yhdistäneet voimamme ja aloittaneet valokuvaamisen yhdessä luodakse
 
     "wpack-port-p": "Hinta:  80",
 
-    "wedding-bann-titl": "\"Valokuvaus on kuin pianonsoittoa, väline on vain mekaniikkaa, ilmaisu ja tunne on tärkeintä.
-    - Jussi Nukari\"",
+    "wedding-bann-titl": "\"Valokuvaus on kuin pianonsoittoa, väline on vain mekaniikkaa, ilmaisu ja tunne on tärkeintä. - Jussi Nukari\"",
 
     "info-ban-w-ttl": "What we offer",
 
@@ -99,7 +91,7 @@ Nyt olemme yhdistäneet voimamme ja aloittaneet valokuvaamisen yhdessä luodakse
 
     "ppack-3": "Other Portrait <br> Shoot ",
 
-    "ppack-port": "Tunnin mittainen henkilökuvaus,
+    "ppack-port": "Tunnin mittainen henkilökuvaus",
 
     "ppack-1-t": "-description<br>-some text<br>-some more text",
 

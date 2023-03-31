@@ -25,11 +25,11 @@
 
     "footer": "2023 Copyright M&M Photography © All rights reserved.",
 
-    "c-button": "Book Us!",
+    "c-button": "Contact Us!",
 
     "a-button": "About Us!",
 
-    "about-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "about-content": "We are the photography team Mikael and Merve! <br><br> Mikael: I'm a 33 year old Photographer from Pargas. I have worked as a photographer over 10 years. The great thing about being a professional photographer is the possibility to witness peoples most important moments in their lives. <br><br> Merve: I'm a 33 year old photographer from Turku, and I'm originally from Turkey. As a photographer I'm imaginative and for me it is most important to cutivate an atmosphere where you feel like an active part of the photography experience. <br><br> We have now combined our powers and started photographing together as a team, to create the most memorable photos possible for you, are customers! <br><br>Let's have fun together!",
 
     "color-bannner-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     
@@ -37,29 +37,29 @@
 
     "plan-wed-title": "Planning a Wedding?",
 
-    "wpack-port": "Wedding Package <br> 1",
+    "wpack-port": "Wedding Package <br> Portrait",
 
-    "wpack-port-t": "Wedding couple portraits<br>Delivery within 2 weeks",
+    "wpack-port-t": "",
 
-    "wpack-port-p": "Price: 400",
+    "wpack-port-p": "",
 
-    "wpack-1": "Wedding Package<br> 2",
+    "wpack-1": "Wedding Package<br> 1",
 
-    "wpack-1-t": "Wedding couple portraits<br>Ceremony documentation<br>Delivery within 2 weeks",
+    "wpack-1-t": "Wedding couple portraits<br>Delivery within 2 weeks",
 
-    "wpack-1-p": "Price: 700",
+    "wpack-1-p": "Price: 400",
 
-    "wpack-2": "Wedding Package <br> 3",
+    "wpack-2": "Wedding Package <br> 2",
 
-    "wpack-2-t": "Wedding couple portraits<br>Ceremony documentation<br>Wedding party documentation<br>8 hours<br>Delivery within 3 weeks",
+    "wpack-2-t": "Wedding couple portraits<br>Ceremony documentation<br>Delivery within 2 weeks",
 
-    "wpack-2-p": "Price:  1400",
+    "wpack-2-p": "Price: 700",
     
-    "wpack-3": "Wedding Package Luxury",
+    "wpack-3": "Wedding Package <br> 3",
 
-    "wpack-3-t": "-description<br>-some text<br>-some more text",
+    "wpack-3-t": "Wedding couple portraits<br>Ceremony documentation<br>Wedding party documentation<br>8 hours<br>Delivery within 3 weeks",
 
-    "wpack-3-p": "Price:  3000",
+    "wpack-3-p": "Price:  1400",
  
     "price": "Price",
     
@@ -83,7 +83,7 @@
 
     "info-ban-w-txt4": "We will do this, this and this",
 
-    "about-gen": "At \"Business Name\", we believe that every love story deserves to be told in a beautiful and authentic way. Our team of skilled photographers combines technical expertise with an artistic eye to capture the magic and emotion of your special day. From intimate elopements to grand celebrations, we approach each wedding with a personalized and thoughtful approach, taking the time to understand your vision and preferences. Our signature style is a blend of candid and posed shots that showcase the unique personalities and love between you and your partner. We pride ourselves on providing a friendly and professional service, making sure that you feel comfortable and at ease in front of the camera. Our goal is to create timeless and stunning images that you will cherish for years to come.",
+    "about-gen": "",
 
     "about-ext1": "Our team of photographers at [Business Name] is made up of experienced and talented professionals who are passionate about capturing love stories. Each member of our team has a unique style and approach to photography, but they all share a dedication to delivering exceptional service and stunning images. Our photographers have a keen eye for detail and a talent for capturing candid moments that tell the story of your wedding day. They are skilled at using natural light to create soft, romantic images and are experienced in working with different lighting conditions and environments. They have a friendly and unobtrusive approach to their work, ensuring that you and your guests feel comfortable and relaxed in front of the camera. At [Business Name], we believe that a great photographer is not just someone who takes good pictures, but someone who connects with their clients and truly understands their vision. That's why our photographers take the time to get to know you and your partner, listen to your ideas and preferences, and work closely with you to create a customized photography plan that fits your unique style and personality. In short, our photographers are not just skilled professionals, but also friendly and approachable artists who are dedicated to capturing the beauty and emotion of your wedding day in a way that is authentic, timeless, and unforgettable.",
 

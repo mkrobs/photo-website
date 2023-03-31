@@ -9,7 +9,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" href="css/photoswipe.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
     <script src="js/translate.js"></script>
     <script src="js/index.js"></script>
     <script type="module">
@@ -43,7 +42,7 @@
         </div>
         <div class="topnav" id="navMenu">
             <a href="javascript:void(0);" class="icon" onclick="showMenu()">
-                <div class="menu-icon">
+                <div id="hamburger" class="menu-icon">
                      <div></div>
                      <div></div>
                      <div></div>
@@ -54,9 +53,9 @@
             <a href="portrait.html" lng-tag="portrait"></a>-->
             <a href="about.html" lng-tag="about"></a>
             <a href="contact.html" lng-tag="contact"></a>
-                <a class="lang-select" id="enTranslator" href="../index.html">EN</a>
-                <a class="lang-select" id="fiTranslator" href="fi/index.html">FI</a>
-                <a class="lang-select" id="svTranslator" href="sv/index.html">SV</a>
+                <a class="lang-select" id="enTranslator" href="javascript:void(0);">EN</a>
+                <a class="lang-select" id="fiTranslator" href="javascript:void(0);">FI</a>
+                <a class="lang-select" id="svTranslator" href="javascript:void(0);">SV</a>
         </div>
     </header>
     <div class="couple banner-parallax"></div>
@@ -82,17 +81,6 @@
         <div class="pricing">
             <div class="price-card">
                 <img src="img/wed/portrait.jpg" alt="">
-                <div class="price-card-title"><h1 lng-tag="wpack-port"></h1></div>
-                <div class="card-text">
-                    <p lng-tag="wpack-port-t"></p>
-                </div>
-                <div class="card-info">
-                    <h2 lng-tag="wpack-port-p"></h2>
-                    <button class="contact-button" type="button" onclick="window.location.href='contact.html';" lng-tag="c-button"> Contact Us!</button>
-                </div>
-            </div>
-            <div class="price-card">
-                <img src="img/wed/package-1.jpg" alt="">
                 <div class="price-card-title"><h1 lng-tag="wpack-1"></h1></div>
                 <div class="card-text">
                     <p lng-tag="wpack-1-t"></p>
@@ -103,13 +91,24 @@
                 </div>
             </div>
             <div class="price-card">
-                <img src="img/wed/package-2.jpg" alt="">
+                <img src="img/wed/package-1.jpg" alt="">
                 <div class="price-card-title"><h1 lng-tag="wpack-2"></h1></div>
                 <div class="card-text">
                     <p lng-tag="wpack-2-t"></p>
                 </div>
                 <div class="card-info">
                     <h2 lng-tag="wpack-2-p"></h2>
+                    <button class="contact-button" type="button" onclick="window.location.href='contact.html';" lng-tag="c-button"> Contact Us!</button>
+                </div>
+            </div>
+            <div class="price-card">
+                <img src="img/wed/package-2.jpg" alt="">
+                <div class="price-card-title"><h1 lng-tag="wpack-3"></h1></div>
+                <div class="card-text">
+                    <p lng-tag="wpack-3-t"></p>
+                </div>
+                <div class="card-info">
+                    <h2 lng-tag="wpack-3-p"></h2>
                     <button class="contact-button" type="button" onclick="window.location.href='contact.html';" lng-tag="c-button"> Contact Us!</button>
                 </div>
             </div>
@@ -223,11 +222,7 @@
     </div>
 
 
-    <div class="container">
-        <div class="full-width-image">
-            <img src="img/full-width.jpg" />
-        </div>
-    </div>
+    
 <!--
     <div class="container">
         <div class="sec-photo">
@@ -286,5 +281,6 @@
             <p lng-tag="footer"></p>
         </div>
     </footer>
+    <script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
