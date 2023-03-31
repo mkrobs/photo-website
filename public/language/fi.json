@@ -1,5 +1,5 @@
 {
-    "title": "FI: M & M Photography",
+    "title": "M & M Photography",
 
     "title-sub": "Hää- ja henkilökuvaus",
 
@@ -27,7 +27,7 @@
 
     "c-button": "Ota yhteyttä",
 
-    "about-content": "Olemme valokuvaajatiimi Mikael ja Merve. Mikael: olen 33-vuotias valokuvaaja kotoisin Paraisilta. Olen toiminut valokuvaajana yli kymmenen vuotta. Mahtavinta valokuvaajan ammatissa on mahdollisuus olla mukana todistamassa ihmisten tärkeimpiä hetkiä elämässä. Merve: olen 33-vuotias turkulainen valokuvaaja, alunperin kotoisin Turkista. Valokuvaajana olen luova ideanikkari ja minulle on tärkeätä luoda täydellinen ilmapiiri, jotta juuri sinä tuntisit olosi mukavaksi meidän kuvauksissamme. Nyt olemme yhdistäneet voimamme ja aloittaneet valokuvaamisen yhdessä luodaksemme teille asiakkaillemme mahdollisimman ikimuistoiset kuvaukset. Pidetään hauskaa yhdessä!",
+    "about-content": "Olemme valokuvaajatiimi Mikael ja Merve.<br> Mikael: olen 33-vuotias valokuvaaja kotoisin Paraisilta. Olen toiminut valokuvaajana yli kymmenen vuotta. Mahtavinta valokuvaajan ammatissa on mahdollisuus olla mukana todistamassa ihmisten tärkeimpiä hetkiä elämässä.<br><br>Merve: olen 33-vuotias turkulainen valokuvaaja, alunperin kotoisin Turkista. Valokuvaajana olen luova ideanikkari ja minulle on tärkeätä luoda täydellinen ilmapiiri, jotta juuri sinä tuntisit olosi mukavaksi meidän kuvauksissamme.<br> Nyt olemme yhdistäneet voimamme ja aloittaneet valokuvaamisen yhdessä luodaksemme teille asiakkaillemme mahdollisimman ikimuistoiset kuvaukset. Pidetään hauskaa yhdessä!",
 
     "color-bannner-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     
@@ -43,11 +43,11 @@
 
     "wpack-port": "Hääpotretti",
 
-    "wpack-1-t": "-description<br>-some text<br>-some more text",
+    "wpack-1-t": "Paketti sisältää 2 tunnin valokuvaussession ja vähintään 30 käsiteltyä kuvaa. Hääpaketti sisältää hääpotretit.<br>Toimitus kahden viikon sisällä.<br>",
 
-    "wpack-2-t": "-description<br>-some text<br>-some more text",
+    "wpack-2-t": "Paketti sisältää 4 tunnin valokuvaussession ja vähintään 50 käsiteltyä kuvaa. Hääpaketti sisältää hääpotretit ja vihkitilaisuuden valokuvaus.<br>Toimitus kolmen viikon sisällä.<br>",
 
-    "wpack-3-t": "-description<br>-some text<br>-some more text",
+    "wpack-3-t": "Paketti sisältää 8 tunnin valokuvaussession ja vähintään 200 käsiteltyä kuvaa. Hääpaketti sisältää hääpotretit, vihkitilaisuuden valokuvaus ja hääjuhlan dokumentaarinen valokuvaus.<br>Toimitus kolmen viikon sisällä.<br>",
 
     "wpack-port-t": "-description<br>-some text<br>-some more text",
 
@@ -91,7 +91,7 @@
 
     "ppack-3": "Other Portrait <br> Shoot ",
 
-    "ppack-port": "Tunnin mittainen henkilökuvaus",
+    "ppack-port": "Tunnin mittainen valokuvasessio",
 
     "ppack-1-t": "-description<br>-some text<br>-some more text",
 
@@ -99,7 +99,7 @@
 
     "ppack-3-t": "-description<br>-some text<br>-some more text",
 
-    "ppack-port-t": "-description<br>-some text<br>-some more text",
+    "ppack-port-t": "-Tunnin valokuvaussessio esim. raskaus-, parisuhde-, kaveri-, sisarus- ja kihlakuvaus, joko studiossa tai miljöössä",
 
     "ppack-1-p": "Hinta: 400",
 
