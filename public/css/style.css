@@ -403,6 +403,7 @@ a.lang-select {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
+    text-align: center;
 }
 
 .center {
