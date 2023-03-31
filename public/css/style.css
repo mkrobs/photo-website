@@ -451,7 +451,6 @@ a.lang-select {
   overflow: hidden;
   position: relative;
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
   flex-direction: row;
 }
@@ -464,7 +463,7 @@ a.lang-select {
 .two-elements-text {
   text-align: left;
   margin: 10px;
-  padding: 50px;
+  padding: 50px 50px 0px 50px;
   overflow: hidden;
   position: relative;
   max-width: 400px;
