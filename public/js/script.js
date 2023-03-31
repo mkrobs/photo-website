@@ -67,17 +67,28 @@ $(window).resize(function() {
 });
 
 function stickyFunction() {
-         var header = document.getElementById("stickyheader");
-      var icon = document.getElementById("hamburger")
-      var sticky = header.offsetTop;
-       if (window.pageYOffset > sticky && $(window).width() < 540) {
+      var header = document.getElementById("stickyheader");
+      //var icon = document.getElementById("hamburger")
+       if ($(window).width() < 540) {
         header.classList.add("non-sticky");
-       // icon.classList.add("sticky-icon");
           } else {
         header.classList.remove("non-sticky");
+    }
+}
+
+
+//function stickyFunction() {
+      //var header = document.getElementById("stickyheader");
+      //var icon = document.getElementById("hamburger")
+      //var sticky = header.offsetTop;
+       //if (window.pageYOffset > sticky && $(window).width() < 540) {
+        //header.classList.add("non-sticky");
+       // icon.classList.add("sticky-icon");
+          //} else {
+        //header.classList.remove("non-sticky");
        // icon.classList.remove("sticky-icon");
-           }
-      }
+          // }
+      //}
 
 window.onscroll = () => 
   {scrollFunction(), stickyFunction()}

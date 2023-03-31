@@ -159,6 +159,10 @@ footer p {
   width: 100%;
 }
 
+.non-sticky + .header {
+  padding-top: 102px;
+}
+
 .sticky + .header {
   padding-top: 102px;
 }
