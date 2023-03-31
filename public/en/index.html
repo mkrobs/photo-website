@@ -6,28 +6,28 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>M & M Photography</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" href="css/photoswipe.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <link rel="stylesheet" href="../css/photoswipe.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="js/translate.js"></script>
-    <script src="js/index.js"></script>
+    <script src="../js/translate.js"></script>
+    <script src="../js/index.js"></script>
     <script type="module">
-        import PhotoSwipeLightbox from './js/photoswipe-lightbox.esm.js';
+        import PhotoSwipeLightbox from './../js/photoswipe-lightbox.esm.js';
         const lightbox = new PhotoSwipeLightbox({
           gallery: '#gallery--main-page',
           children: 'a',
           showHideAnimationType: 'none',
           zoomAnimationDuration: false,
-          pswpModule: () => import('./js/photoswipe.esm.js')
+          pswpModule: () => import('./../js/photoswipe.esm.js')
         });
         lightbox.init();
     </script>
 </head>
-<body class="home" onload="translate('fi','lng-tag')">
+<body class="home" onload="translate('en','lng-tag')">
     <header id="stickyheader">
         <div>
             <a href="index.html">
-            <img id="logo" src="logo.png" class="logo" />
+            <img id="logo" src="../logo.png" class="logo" />
             </a>
         </div>
         <div class="title-element">
@@ -53,8 +53,8 @@
             <a href="portrait.html" lng-tag="portrait"></a>-->
             <a href="about.html" lng-tag="about"></a>
             <a href="contact.html" lng-tag="contact"></a>
-                <a class="lang-select" id="enTranslator" href="en/index.html">EN</a>
-                <a class="lang-select" id="fiTranslator" href="javascript:void(0);">FI</a>
+                <a class="lang-select" id="enTranslator" href="javascript:void(0);">EN</a>
+                <a class="lang-select" id="fiTranslator" href="../index.html">FI</a>
                 <!--<a class="lang-select" id="svTranslator" href="javascript:void(0);">SV</a>-->
         </div>
     </header>
@@ -80,7 +80,7 @@
     <div class="container">
         <div class="pricing">
             <div class="price-card">
-                <img src="img/wed/portrait.jpg" alt="">
+                <img src="../img/wed/portrait.jpg" alt="">
                 <div class="price-card-title"><h1 lng-tag="wpack-1"></h1></div>
                 <div class="card-text">
                     <p lng-tag="wpack-1-t"></p>
@@ -91,7 +91,7 @@
                 </div>
             </div>
             <div class="price-card">
-                <img src="img/wed/package-1.jpg" alt="">
+                <img src="../img/wed/package-1.jpg" alt="">
                 <div class="price-card-title"><h1 lng-tag="wpack-2"></h1></div>
                 <div class="card-text">
                     <p lng-tag="wpack-2-t"></p>
@@ -102,7 +102,7 @@
                 </div>
             </div>
             <div class="price-card">
-                <img src="img/wed/package-2.jpg" alt="">
+                <img src="../img/wed/package-2.jpg" alt="">
                 <div class="price-card-title"><h1 lng-tag="wpack-3"></h1></div>
                 <div class="card-text">
                     <p lng-tag="wpack-3-t"></p>
@@ -130,7 +130,7 @@
     <div class="container">
         <div class="pricing">
             <div class="price-card">
-                <img src="img/port/portrait.jpg" alt="">
+                <img src="../img/port/portrait.jpg" alt="">
                 <div class="price-card-title"><h1 lng-tag="ppack-port"></h1></div>
                 <div class="card-text">
                     <p lng-tag="ppack-port-t"></p>
@@ -145,77 +145,77 @@
     <div class="container">   
         <div class="pswp-gallery pswp-gallery--single-column gallery-hover" id="gallery--main-page">
         
-                <a href="img/wed-gallery/photo-2.jpg"
+                <a href="../img/wed-gallery/photo-2.jpg"
                 data-pswp-width="2000" 
                 data-pswp-height="1333" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-thumb-2.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-thumb-2.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-10.jpg"
+                <a href="../img/wed-gallery/photo-10.jpg"
                 data-pswp-width="2000" 
                 data-pswp-height="1333" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-thumb-10.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-thumb-10.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-4.jpg"
+                <a href="../img/wed-gallery/photo-4.jpg"
                 data-pswp-width="2000" 
                 data-pswp-height="1333" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-thumb-4.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-thumb-4.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-5.jpg"
+                <a href="../img/wed-gallery/photo-5.jpg"
                 data-pswp-width="2000" 
                 data-pswp-height="2000" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-thumb-5.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-thumb-5.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-t2-2.jpg"
+                <a href="../img/wed-gallery/photo-t2-2.jpg"
                 data-pswp-width="2000" 
                 data-pswp-height="1333" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-t2-thumb-2.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-t2-thumb-2.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-t2-10.jpg"
+                <a href="../img/wed-gallery/photo-t2-10.jpg"
                 data-pswp-width="2000" 
                 data-pswp-height="1333" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-t2-thumb-10.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-t2-thumb-10.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-t2-4.jpg"
+                <a href="../img/wed-gallery/photo-t2-4.jpg"
                 data-pswp-width="2000" 
                 data-pswp-height="1333" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-t2-thumb-4.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-t2-thumb-4.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-t2-6.jpg"
+                <a href="../img/wed-gallery/photo-t2-6.jpg"
                 data-pswp-width="2000" 
                 data-pswp-height="1333" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-t2-thumb-6.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-t2-thumb-6.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-f1-2.jpg"
+                <a href="../img/wed-gallery/photo-f1-2.jpg"
                 data-pswp-width="2000" 
                 data-pswp-height="1333" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-f1-thumb-2.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-f1-thumb-2.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-f1-1.jpg"
+                <a href="../img/wed-gallery/photo-f1-1.jpg"
                 data-pswp-width="2000" 
                 data-pswp-height="1333" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-f1-thumb-1.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-f1-thumb-1.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-f1-3.jpg"
+                <a href="../img/wed-gallery/photo-f1-3.jpg"
                 data-pswp-width="1333" 
                 data-pswp-height="2000" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-f1-thumb-3.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-f1-thumb-3.jpg" alt="" /></a>
 
-                <a href="img/wed-gallery/photo-f1-5.jpg"
+                <a href="../img/wed-gallery/photo-f1-5.jpg"
                 data-pswp-width="1333" 
                 data-pswp-height="2000" 
                 target="_blank">
-                <img src="img/wed-gallery/photo-f1-thumb-5.jpg" alt="" /></a>
+                <img src="../img/wed-gallery/photo-f1-thumb-5.jpg" alt="" /></a>
 
             
         </div>
@@ -259,8 +259,8 @@
         <div class="footer-container">
             <div class="footer-left">
                 <div class="low-menu-lang">
-                    <a id="enTranslator" href="en/index.html">EN</a>
-                    <a id="fiTranslator" href="javascript:void(0);">FI</a>
+                    <a id="enTranslator" href="javascript:void(0);">EN</a>
+                    <a id="fiTranslator" href="../index.html">FI</a>
                     <!--<a id="svTranslator" href="javascript:void(0);">SV</a>-->   
                 </div>
                 <div class="low-menu">
@@ -281,6 +281,6 @@
             <p lng-tag="footer"></p>
         </div>
     </footer>
-    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="../js/script.js"></script>
 </body>
 </html>

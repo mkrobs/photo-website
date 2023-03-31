@@ -45,23 +45,23 @@
 
     "wpack-port": "Hääpotretti",
 
-    "wpack-1-t": "Paketti sisältää 2 tunnin valokuvaussession <br> ja vähintään 30 käsiteltyä kuvaa. <br>Hääpaketti sisältää hääpotretit.<br>Toimitus kahden viikon sisällä.<br>",
+    "wpack-1-t": "-Paketti sisältää 2 tunnin valokuvaussession <br>-Vähintään 30 käsiteltyä kuvaa. <br>-Hääpaketti sisältää hääpotretit.<br>-Toimitus kahden viikon sisällä.<br>",
 
-    "wpack-2-t": "Paketti sisältää 4 tunnin valokuvaussession <br> ja vähintään 50 käsiteltyä kuvaa. <br>Hääpaketti sisältää hääpotretit ja vihkitilaisuuden valokuvaus.<br>Toimitus kolmen viikon sisällä.<br>",
+    "wpack-2-t": "-Paketti sisältää 4 tunnin valokuvaussession <br>-Vähintään 50 käsiteltyä kuvaa. <br>-Hääpaketti sisältää hääpotretit ja vihkitilaisuuden valokuvaus.<br>-Toimitus kolmen viikon sisällä.",
 
-    "wpack-3-t": "Paketti sisältää 8 tunnin valokuvaussession <br> ja vähintään 200 käsiteltyä kuvaa. <br>Hääpaketti sisältää hääpotretit,<br> vihkitilaisuuden valokuvaus<br> ja hääjuhlan dokumentaarinen valokuvaus.<br>Toimitus kolmen viikon sisällä.<br>",
+    "wpack-3-t": "-Paketti sisältää 8 tunnin valokuvaussession <br>-Vähintään 200 käsiteltyä kuvaa. <br>-Hääpaketti sisältää hääpotretit, vihkitilaisuuden valokuvaus ja hääjuhlan dokumentaarinen valokuvaus.<br>-Toimitus kolmen viikon sisällä.<br>",
 
     "wpack-port-t": "-description<br>-some text<br>-some more text",
 
     "price": "Hinnat",
 
-    "wpack-1-p": "Hinta: 400",
+    "wpack-1-p": "Hinta: 400 €",
 
-    "wpack-2-p": "Hinta:  700",
+    "wpack-2-p": "Hinta: 700 €",
 
-    "wpack-3-p": "Hinta:  1400",
+    "wpack-3-p": "Hinta: 1400 €",
 
-    "wpack-port-p": "Hinta:  80",
+    "wpack-port-p": "Hinta: 80 €",
 
     "wedding-bann-titl": "\"Valokuvaus on kuin pianonsoittoa, väline on vain mekaniikkaa, ilmaisu ja tunne on tärkeintä. - Jussi Nukari\"",
 
@@ -101,7 +101,7 @@
 
     "ppack-3-t": "-description<br>-some text<br>-some more text",
 
-    "ppack-port-t": "-Tunnin valokuvaussessio<br> esim. raskaus-, parisuhde-, kaveri-, sisarus- ja kihlakuvaus,<br> joko studiossa tai miljöössä",
+    "ppack-port-t": "-Tunnin valokuvaussessio<br>-Esim. raskaus-, parisuhde-, kaveri-,<br> sisarus- ja kihlakuvaus,<br>-Joko studiossa tai miljöössä",
 
     "ppack-1-p": "Hinta: 400",
 
@@ -109,7 +109,7 @@
 
     "ppack-3-p": "Hinta:  1400",
 
-    "ppack-port-p": "Hinta:  80",
+    "ppack-port-p": "Hinta: 80 €",
 
     "contact-name": "Nimi",
 
