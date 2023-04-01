@@ -45,11 +45,11 @@
 
     "wpack-port": "Hääpotretti",
 
-    "wpack-1-t": "-Paketti sisältää 2 tunnin valokuvaussession <br>-Vähintään 30 käsiteltyä kuvaa. <br>-Hääpaketti sisältää hääpotretit.<br>-Toimitus kahden viikon sisällä.<br>",
+    "wpack-1-t": "-Paketti sisältää 2 tunnin valokuvaussession. <br>-Vähintään 30 käsiteltyä kuvaa. <br>-Hääpaketti sisältää hääpotretit.<br>-Toimitus kahden viikon sisällä.<br>",
 
-    "wpack-2-t": "-Paketti sisältää 4 tunnin valokuvaussession <br>-Vähintään 50 käsiteltyä kuvaa. <br>-Hääpaketti sisältää hääpotretit ja vihkitilaisuuden valokuvaus.<br>-Toimitus kolmen viikon sisällä.",
+    "wpack-2-t": "-Paketti sisältää 4 tunnin valokuvaussession. <br>-Vähintään 50 käsiteltyä kuvaa. <br>-Hääpaketti sisältää hääpotretit ja vihkitilaisuuden valokuvaus.<br>-Toimitus kolmen viikon sisällä.",
 
-    "wpack-3-t": "-Paketti sisältää 8 tunnin valokuvaussession <br>-Vähintään 200 käsiteltyä kuvaa. <br>-Hääpaketti sisältää hääpotretit, vihkitilaisuuden valokuvaus ja hääjuhlan dokumentaarinen valokuvaus.<br>-Toimitus kolmen viikon sisällä.<br>",
+    "wpack-3-t": "-Paketti sisältää 8 tunnin valokuvaussession. <br>-Vähintään 200 käsiteltyä kuvaa. <br>-Hääpaketti sisältää hääpotretit, vihkitilaisuuden valokuvaus ja hääjuhlan dokumentaarinen valokuvaus.<br>-Toimitus kolmen viikon sisällä.<br>",
 
     "wpack-port-t": "-description<br>-some text<br>-some more text",
 
@@ -101,7 +101,7 @@
 
     "ppack-3-t": "-description<br>-some text<br>-some more text",
 
-    "ppack-port-t": "-Tunnin valokuvaussessio<br>-Esim. raskaus-, parisuhde-, kaveri-,<br> sisarus- ja kihlakuvaus,<br>-Joko studiossa tai miljöössä",
+    "ppack-port-t": "-Tunnin valokuvaussessio.<br>-Esim. raskaus-, parisuhde-, kaveri-,<br> sisarus- ja kihlakuvaus. <br>-Joko studiossa tai miljöössä.",
 
     "ppack-1-p": "Hinta: 400",
 
