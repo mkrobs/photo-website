@@ -810,6 +810,16 @@ a.lang-select {
   justify-content: center;
 }
 
+.container div{
+  border-style: solid;
+}
+
+@media screen and (max-width: 414px) {
+  .price-card-title {
+    padding-bottom: 150px;
+}
+}
+
 .price-card {
   position: relative;
   padding: 0px;
@@ -828,7 +838,7 @@ a.lang-select {
 
 .price-card-title {
   position: absolute;
-  top: 47%;
+  top: 43%;
   left: 27%;
   transform: translate(-50%, -50%);
   min-width: 300px;
