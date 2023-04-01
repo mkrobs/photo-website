@@ -29,7 +29,7 @@
 
     "a-button": "Meistä",
 
-    "about-content": "Olemme valokuvaajatiimi Mikael ja Merve.<br> Mikael: olen 33-vuotias valokuvaaja kotoisin Paraisilta. Olen toiminut valokuvaajana yli kymmenen vuotta. Mahtavinta valokuvaajan ammatissa on mahdollisuus olla mukana todistamassa ihmisten tärkeimpiä hetkiä elämässä.<br><br>Merve: olen 33-vuotias turkulainen valokuvaaja, alunperin kotoisin Turkista. Valokuvaajana olen luova ideanikkari ja minulle on tärkeätä luoda täydellinen ilmapiiri, jotta juuri sinä tuntisit olosi mukavaksi meidän kuvauksissamme.<br> Nyt olemme yhdistäneet voimamme ja aloittaneet valokuvaamisen yhdessä luodaksemme teille asiakkaillemme mahdollisimman ikimuistoiset kuvaukset. Pidetään hauskaa yhdessä!",
+    "about-content": "Olemme valokuvaajatiimi Mikael ja Merve.<br><br>Mikael: olen 33-vuotias valokuvaaja kotoisin Paraisilta. Olen toiminut valokuvaajana yli kymmenen vuotta. Mahtavinta valokuvaajan ammatissa on mahdollisuus olla mukana todistamassa ihmisten tärkeimpiä hetkiä elämässä.<br><br>Merve: olen 33-vuotias turkulainen valokuvaaja, alunperin kotoisin Turkista. Valokuvaajana olen luova ideanikkari ja minulle on tärkeätä luoda täydellinen ilmapiiri, jotta juuri sinä tuntisit olosi mukavaksi meidän kuvauksissamme.<br><br> Nyt olemme yhdistäneet voimamme ja aloittaneet valokuvaamisen yhdessä luodaksemme teille asiakkaillemme mahdollisimman ikimuistoiset kuvaukset. Pidetään hauskaa yhdessä!",
 
     "color-bannner-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     
@@ -101,7 +101,7 @@
 
     "ppack-3-t": "-description<br>-some text<br>-some more text",
 
-    "ppack-port-t": "-Tunnin valokuvaussessio.<br>-Esim. raskaus-, parisuhde-, kaveri-,<br> sisarus- ja kihlakuvaus. <br>-Joko studiossa tai miljöössä.",
+    "ppack-port-t": "-Tunnin mittainen valokuvaussessio<br> esim. raskaus-, parisuhde-, kaveri-, sisarus- ja kihlakuvaus,<br> joko studiossa tai miljöössä",
 
     "ppack-1-p": "Hinta: 400",
 
