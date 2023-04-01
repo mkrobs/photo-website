@@ -94,9 +94,9 @@
 - [x] ~~social links to footer~~
 - [x] ~~add visible titles for photos on homepage~~
 - [x] ~~add social media buttons~~
-- [ ] write "about page" text
-- [x] write texts for Wedding Page
-- [ ] define pricing categories
+- [x] ~~write "about page" text~~
+- [x] ~~write texts for Wedding Page~~
+- [x] ~~define pricing categories~~
 - [x] create a logo
 - [ ] create a color theme
 - [ ] ~~replace header title with logo (can be logo+title)~~
@@ -105,7 +105,7 @@
 - [x] ~~create contact form and emailing function (not emailing but posting)~~
 - [ ] global javascript function for contact button
 - [ ] move contact form alerts to red warning text below the submit
-- [ ] Hide header when scrolling in mobile view
+- [x] ~~Hide header when scrolling in mobile view~~
 
 ### When index.html is ready:
 - [x] ~~create sub pages for product categories~~
