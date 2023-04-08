@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@1,200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap');
-
-
-
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Sacramento&display=swap');
 
 
 a:link {
@@ -54,11 +52,15 @@ p {
 
 h1 {
   text-align: center;
-  font-family: 'Spectral', serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
 h2 {
   margin: 5px;
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
 }
 
 .logo {
@@ -701,7 +703,7 @@ a.lang-select {
     outline: none;
     color: #fff;
     box-shadow: 0 9px #999;
-    background-color: #1e87c4;
+    background-color: #d18d9a;
     border: none;
     border-radius: 15px;
    }
@@ -810,9 +812,6 @@ a.lang-select {
   justify-content: center;
 }
 
-.container div{
-  border-style: solid;
-}
 
 @media screen and (max-width: 414px) {
   .price-card-title {
@@ -845,11 +844,12 @@ a.lang-select {
 }
 
 .price-card-title h1{
-  font-size: 30px;
-  width: 90%;
-  background-color: #62c1e3;
+  font-size: 28px;
+  width: 100%;
+  background-color: #d18d9a;
+  opacity: 1;
   color: white;
-  padding: 5px 0px ;
+  padding: 10px 10px ;
 }
 
 .card-info {
@@ -861,7 +861,7 @@ a.lang-select {
 }
 
 .card-info h2{
-  background-color: #62c1e3;
+  background-color: #d18d9a;
   color: white;
   font-size: 20px;
   align-content: center;
@@ -893,4 +893,8 @@ a.lang-select {
 
 .gallery-hover img:hover {
   opacity: 0.80;
+}
+
+.bkg-card {
+  background-color: #55C282;
 }

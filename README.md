@@ -105,6 +105,7 @@
 - [x] ~~create contact form and emailing function (not emailing but posting)~~
 - [ ] global javascript function for contact button
 - [ ] move contact form alerts to red warning text below the submit
+- [ ] styles from JS to CSS
 - [x] ~~Hide header when scrolling in mobile view~~
 
 ### When index.html is ready:
