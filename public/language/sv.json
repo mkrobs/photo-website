@@ -1,31 +1,31 @@
 {
     "title": "SV: M&M Photography",
     
-    "title-sub": "Wedding and Portrait Photography",
+    "title-sub": "Bröllops- och porträttfotografi",
 
     "title-low": "&nbsp;M & M Photography&nbsp;",
 
-    "home": "Home",
+    "home": "Hemsida",
 
     "portfolio": "Portfolio",
 
-    "about": "About",
+    "about": "Om oss",
 
-    "contact": "Contact",
+    "contact": "Ta kontakt",
 
-    "pricing": "Pricing",
+    "pricing": "Prislista",
 
-    "wedding": "Wedding",
+    "wedding": "Bröllop",
 
-    "couples": "Couples",
+    "couples": "Par",
 
-    "portrait": "Portrait",
+    "portrait": "Porträtt",
 
-    "event": "Events",
+    "event": "Evenenmang",
 
     "footer": "2023 Copyright M&M Photography © All rights reserved.",
 
-    "c-button": "Book Us!",
+    "c-button": "Ta kontakt",
 
     "about-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
 
@@ -33,13 +33,13 @@
     
     "banner-huge-title": "Lorem ipsum dolor sit amet, consectetur",
 
-    "plan-wed-title": "Planning a Wedding?",
+    "plan-wed-title": "Planerar du ett bröllop?",
 
-    "wpack-1": "Wedding Package Cheap",
+    "wpack-1": "Bröllopspaket 1",
 
-    "wpack-2": "Wedding Package Normal",
+    "wpack-2": "Bröllopspaket 2",
 
-    "wpack-3": "Wedding Package Luxury",
+    "wpack-3": "Bröllopspaket 3",
 
     "wpack-port": "Wedding Portrait Session",
 
@@ -53,11 +53,11 @@
 
     "price": "Price",
 
-    "wpack-1-p": "Price: 1000",
+    "wpack-1-p": "Pris: 400",
 
-    "wpack-2-p": "Price:  2000",
+    "wpack-2-p": "Pris:  700",
 
-    "wpack-3-p": "Price:  3000",
+    "wpack-3-p": "Pris:  1400",
 
     "wpack-port-p": "Price:  500",
 
@@ -85,13 +85,13 @@
 
     "about-ext1": "Our team of photographers at [Business Name] is made up of experienced and talented professionals who are passionate about capturing love stories. Each member of our team has a unique style and approach to photography, but they all share a dedication to delivering exceptional service and stunning images. Our photographers have a keen eye for detail and a talent for capturing candid moments that tell the story of your wedding day. They are skilled at using natural light to create soft, romantic images and are experienced in working with different lighting conditions and environments. They have a friendly and unobtrusive approach to their work, ensuring that you and your guests feel comfortable and relaxed in front of the camera. At [Business Name], we believe that a great photographer is not just someone who takes good pictures, but someone who connects with their clients and truly understands their vision. That's why our photographers take the time to get to know you and your partner, listen to your ideas and preferences, and work closely with you to create a customized photography plan that fits your unique style and personality. In short, our photographers are not just skilled professionals, but also friendly and approachable artists who are dedicated to capturing the beauty and emotion of your wedding day in a way that is authentic, timeless, and unforgettable.",
 
-    "ppack-1": "Couple Portrait Session",
+    "ppack-1": "Parfotografering",
 
-    "ppack-2": "Pregnancy Photo Shoot",
+    "ppack-2": "Graviditetsfotografering",
 
     "ppack-3": "Other Portrait <br> Shoot ",
 
-    "ppack-port": "1 Hour Portrait Session",
+    "ppack-port": "1 timmes porträttsession",
 
     "ppack-1-t": "-description<br>-some text<br>-some more text",
 
@@ -109,13 +109,13 @@
 
     "ppack-port-p": "Price:  500",
 
-    "contact-name": "Your name",
+    "contact-name": "Ditt namn",
 
-    "contact-email": "Your email",
+    "contact-email": "Din e-postadress",
 
-    "contact-subject": "Your subject",
+    "contact-subject": "Ditt ämne",
 
-    "contact-message": "Your message",
+    "contact-message": "Ditt meddelande",
 
     "contact-name-err": "Please enter your name",
 
