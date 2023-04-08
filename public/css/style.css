@@ -175,9 +175,9 @@ footer p {
 }
 
 .inverted {
-  background-color: #328cc1;
+  background-color: #d18d9a;
   color: white;
-  padding: 0px 2px;
+  padding: 5px 10px;
 }
 
 .header-spacer {
@@ -711,7 +711,7 @@ a.lang-select {
 
   
   .contact-button:hover {
-    background-color: #49a6db;
+    background-color: #e9afb9;
   }
 
   .contact-button:active {
