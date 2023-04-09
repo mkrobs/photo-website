@@ -1,0 +1,131 @@
+{
+    "title": "M&M Photography",
+    
+    "title-sub": "Bröllops- och porträttfotografi",
+
+    "title-low": "&nbsp;M & M Photography&nbsp;",
+
+    "home": "Hemsida",
+
+    "portfolio": "Portfolio",
+
+    "about": "Om oss",
+
+    "contact": "Ta kontakt",
+
+    "pricing": "Prislista",
+
+    "wedding": "Bröllop",
+
+    "couples": "Par",
+
+    "portrait": "Porträtt",
+
+    "event": "Evenenmang",
+
+    "footer": "2023 Copyright M&M Photography",
+
+    "c-button": "Ta kontakt",
+
+    "a-button": "Om oss",
+
+    "about-content": "Vi är M&M Photography och består av Mikael och Merve<br> Mikael: Jag är en 33 år gammal fotograf från Pargas. Jag har jobbat med fotografi i över 10 år. Den underbara saken med att jobba som fotograf är att kunna bevittna de viktigaste tillfällena i människors liv! <br> Merve: Jag är en 33 år gammal fotograf från Åbo och jag kommer ursprungligen från Turkiet. Som fotograf prioriterar jag kreativitet och för mig är det viktigt att skapa en atmosfär där du känner dig som en aktiv del av fotografiupplevelsen. <br> Nu har vi sammanfört våra förmågor och börjat fotografera tillsammans som ett lag, för att kunna skapa så minnesvärda bilder som möjligt för, er, våra kunder!",
+    "color-bannner-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    
+    "banner-huge-title": "Lorem ipsum dolor sit amet, consectetur",
+
+    "plan-wed-title": "Planerar du ett bröllop?",
+
+    "wpack-1": "Bröllopspaket 1",
+
+    "wpack-2": "Bröllopspaket 2",
+
+    "wpack-3": "Bröllopspaket 3",
+
+    "wpack-port": "Wedding Portrait Session",
+
+    "wpack-1-t": "-Bröllopsparfotografering<br>-Inkluderar 30 redigerade bilder<br>-Bilderna är färdiga inom 2 veckor",
+
+    "wpack-2-t": "-Bröllopsparfotografering <br>-Dokumentation av bröllopsceremonin <br>-Inkluderar 50 redigerade bilder <br>-Bilderna är färdiga inom 2 veckor",
+
+    "wpack-3-t": "-Bröllopsparfotografering <br>-Dokumentation av bröllopsceremonin <br>-Dokumentation av bröllopsfesten <br>-8 timmar <br> -Inkluderar minst 200 redigerade bilder<br>-Bilderna är färdiga inom 3 veckor",
+
+    "wpack-port-t": "-description<br>-some text<br>-some more text",
+
+    "price": "Price",
+
+    "wpack-1-p": "Pris: 400",
+
+    "wpack-2-p": "Pris:  700",
+
+    "wpack-3-p": "Pris:  1400",
+
+    "wpack-port-p": "Price:  500",
+
+    "wedding-bann-titl": "\"Turning your special day into lifelong memories\"",
+
+    "info-ban-w-ttl": "What we offer",
+
+    "info-ban-w-sttl1": "Some Nice Things ",
+
+    "info-ban-w-txt1": "We will do this, this and this",
+
+    "info-ban-w-sttl2": "Some More Things",
+
+    "info-ban-w-txt2": "We will do this, this and this",
+
+    "info-ban-w-sttl3": "Awesome Things",
+
+    "info-ban-w-txt3": "We will do this, this and this",
+
+    "info-ban-w-sttl4": "Even More Awesome",
+
+    "info-ban-w-txt4": "We will do this, this and this",
+
+    "about-gen": "",
+
+    "about-ext1": "",
+
+    "ppack-1": "Parfotografering",
+
+    "ppack-2": "Graviditetsfotografering",
+
+    "ppack-3": "Other Portrait <br> Shoot ",
+
+    "ppack-port": "1 timmes porträttsession",
+
+    "ppack-1-t": "-Par, förlovnings, graviditets<br> eller annan porträttfotografi<br>-Bilderna är färdiga inom 2 veckor",
+
+    "ppack-2-t": "-description<br>-some text<br>-some more text",
+
+    "ppack-3-t": "-description<br>-some text<br>-some more text",
+
+    "ppack-port-t": "-Par, förlovnings, graviditets<br> eller annan porträttfotografi<br>-Bilderna är färdiga inom 2 veckor",
+
+    "ppack-1-p": "Price: 1000",
+
+    "ppack-2-p": "Price:  2000",
+
+    "ppack-3-p": "Price:  3000",
+
+    "ppack-port-p": "Price:  500",
+
+    "contact-name": "Ditt namn",
+
+    "contact-email": "Din e-postadress",
+
+    "contact-subject": "Ditt ämne",
+
+    "contact-message": "Ditt meddelande",
+
+    "contact-name-err": "Please enter your name",
+
+    "contact-email-err": "Please enter your email",
+
+    "contact-subject-err": "Please enter your subject",
+
+    "contact-message-err": "Please write a message",
+
+    "invalid-email": "You have entered an invalid email address!"
+
+}
