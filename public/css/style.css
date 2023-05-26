@@ -815,7 +815,7 @@ a.lang-select {
 
 @media screen and (max-width: 414px) {
   .price-card-title {
-    padding-bottom: 150px;
+    padding-bottom: 250px;
 }
 }
 
@@ -836,16 +836,13 @@ a.lang-select {
 }
 
 .price-card-title {
-  position: absolute;
-  top: 43%;
-  left: 27%;
-  transform: translate(-50%, -50%);
-  min-width: 300px;
+  
+  padding: 0px 10px
 }
 
 .price-card-title h1{
   font-size: 28px;
-  width: 100%;
+  
   background-color: #d18d9a;
   opacity: 1;
   color: white;
