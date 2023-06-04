@@ -81,7 +81,8 @@
 - Link hover header
 
 ## To-do
-- [ ] a lot
+- [ ] bug on gallery main page/hide image in CSS
+- [x] a lot
 - [x] ~~change logo file name~~
 - [x] ~~implement page translation script~~
 - [x] ~~save the language selection for reloading the page~~ (maybe not needed)
