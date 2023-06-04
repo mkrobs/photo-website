@@ -413,6 +413,10 @@ a.lang-select {
     text-align: center;
 }
 
+.portfolio-container {
+  padding: 50px 0px;
+}
+
 .center {
   justify-content: center;
 }
@@ -894,4 +898,9 @@ a.lang-select {
 
 .bkg-card {
   background-color: #55C282;
+}
+
+.port-img img{
+  max-width: 100%;
+  height: auto;
 }
